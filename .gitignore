@@ -16,3 +16,7 @@
 /vendor/
 /web/bundles/
 *.idea
+.env
+docker-compose.yml
+.docker/php/id_rsa
+.docker/mysql/data
