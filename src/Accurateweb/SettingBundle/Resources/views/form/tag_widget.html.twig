@@ -1,0 +1,31 @@
+{% block array_tag_widget %}
+    <select id="{{ id }}" name="{{ full_name }}[]" class=" form-control" multiple="multiple">
+        {% for item in form.vars.value %}
+            <option selected="selected">{{ item }}</option>
+        {% endfor %}
+    </select>
+    {% spaceless %}
+        <script type="text/javascript">
+          jQuery(function ($) {
+            var select2FormatColorSelect = function format(state) {
+              if (!state.id || state.disabled) {
+                return state.text;
+              }
+
+              return ' <i class="fa fa-square" style="color: ' + state.id + '"></i> ' + state.text;
+            };
+
+            $('#{{ id }}').select2({
+              formatResult: select2FormatColorSelect,
+              formatSelection: select2FormatColorSelect,
+              width: '100%',
+              escapeMarkup: function (m) {
+                return m;
+              },
+              multiple: true,
+              tags: true,
+            });
+          });
+        </script>
+    {% endspaceless %}
+{% endblock %}

@@ -1,0 +1,48 @@
+services:
+    aw.settings.storage:
+      alias: aw.settings.storage.doctrine
+
+    aw.settings.storage.doctrine:
+      class: Accurateweb\SettingBundle\Model\Storage\DoctrineSettingStorage
+      arguments: ['@aw.settings.repository', '@doctrine.orm.entity_manager']
+
+    aw.settings.repository:
+      class: Accurateweb\SettingBundle\Repository\SettingRepository
+      arguments: ['@doctrine', ~]
+
+    aw.settings.configuration_pool:
+      class: Accurateweb\SettingBundle\Model\SettingConfiguration\SettingConfigurationPool
+
+    aw.settings.manager:
+      class: Accurateweb\SettingBundle\Model\Manager\SettingManager
+      factory: 'aw.settings.manager.factory:createSettingManager'
+      public: true
+      lazy: true
+
+    aw.settings.manager.factory:
+      class: Accurateweb\SettingBundle\Model\Manager\SettingManagerFactory
+      arguments: ['@aw.settings.configuration_pool', '@aw.settings.storage', '@event_dispatcher']
+      lazy: true
+
+    aw.twig.settings:
+      class: Accurateweb\SettingBundle\Twig\SettingsExtension
+      arguments: ['@aw.settings.manager', '@aw.settings.configuration_pool']
+      public: false
+      autowire: false
+      tags:
+        - { name: twig.extension }
+
+    main.admin.settings:
+      class: Accurateweb\SettingBundle\Admin\SettingsAdmin
+      arguments: [~,'AppBundle\Entity\Common\Setting',~, '@aw.settings.configuration_pool']
+      calls:
+        - [ setTemplate, [base_list_field, AccuratewebSettingBundle::list_field.html.twig]]
+      tags:
+        -  { name: sonata.admin, group: '%aw.settings.admin.group%', manager_type: orm, label: '%aw.settings.admin.label%' }
+
+    aw.settings.persister:
+      class: Accurateweb\SettingBundle\EventListener\SettingManagerPersister
+      arguments: ['@aw.settings.configuration_pool', '@aw.settings.storage', '@aw.settings.manager']
+      tags:
+        - { name: kernel.event_listener, event: kernel.terminate, method: onTerminate }
+        - { name: kernel.event_listener, event: console.terminate, method: onConsoleTerminate }
