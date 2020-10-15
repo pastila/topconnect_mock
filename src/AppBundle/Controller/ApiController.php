@@ -44,33 +44,43 @@ class ApiController extends Controller
       $result = '';
       $qData = $request->query->all();
 
-      switch ($command)
+      try
       {
-        case 'gbalance':
-          $result = $this->get('AppBundle\Service\Card\CardListBuilder')->buildList($account, $qData);
-          break;
-        case 'card_stat':
-          $result = $this->get('AppBundle\Service\Card\CardInfoListBuilder')->buildList($account, $qData);
-          break;
-        case 'sbalance':
-          if (isset($qData['started']) && isset($qData['finished']))
-          {
-            $result = $this->get('AppBundle\Service\Balance\TransactionHistoryBuilder')->getHistory($account, $qData);
-          }
-          else
-          {
-            $result = $this->get('AppBundle\Service\Balance\BalanceTransactionFactory')->makeTransaction($account, $qData);
-          }
-          break;
-        case 'sblock':
-          $result = $this->get('AppBundle\Service\Card\CardBlocker')->blockCard($account, $qData);
-          break;
-        case 'account':
-          $result = $this->get('AppBundle\Service\Account\AccountInfoBuilder')->buildInfo($account);
-          break;
-        case 'gccdr':
-          $result = $this->get('AppBundle\Service\CallRecord\RecordListBuilder')->getRecordList($account, $qData);
-          break;
+        switch ($command)
+        {
+          case 'gbalance':
+            $result = $this->get('AppBundle\Service\Card\CardListBuilder')->buildList($account, $qData);
+            break;
+          case 'card_stat':
+            $result = $this->get('AppBundle\Service\Card\CardInfoListBuilder')->buildList($account, $qData);
+            break;
+          case 'sbalance':
+            if (isset($qData['started']) && isset($qData['finished']))
+            {
+              $result = $this->get('AppBundle\Service\Balance\TransactionHistoryBuilder')->getHistory($account, $qData);
+            }
+            else
+            {
+              $result = $this->get('AppBundle\Service\Balance\BalanceTransactionFactory')->makeTransaction($account, $qData);
+            }
+            break;
+          case 'sblock':
+            $result = $this->get('AppBundle\Service\Card\CardBlocker')->blockCard($account, $qData);
+            break;
+          case 'account':
+            $result = $this->get('AppBundle\Service\Account\AccountInfoBuilder')->buildInfo($account);
+            break;
+          case 'gccdr':
+            $result = $this->get('AppBundle\Service\CallRecord\RecordListBuilder')->getRecordList($account, $qData);
+            break;
+        }
+      }
+      catch (\Exception $e)
+      {
+        $xml = new \SimpleXMLElement('<error/>');
+        $xml->addChild('type', 'ERROR');
+        $xml->addChild('text', $e->getMessage());
+        $result = $xml->asXML();
       }
 
       return new Response($result, 200, [

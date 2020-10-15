@@ -37,6 +37,12 @@ class CardListBuilder
     }
 
     $cards = $cardQB->getQuery()->getResult();
+
+    if (isset($params['onum']) && count($cards) < 1)
+    {
+      throw new \Exception('Requested card not found');
+    }
+
     $xml = new \SimpleXMLElement('<records/>');
 
     foreach ($cards as $card)
