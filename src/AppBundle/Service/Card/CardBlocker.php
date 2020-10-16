@@ -45,6 +45,7 @@ class CardBlocker
     }
 
     $xml->addChild('blocked', $card->isBlocked());
+    return $xml->asXML();
   }
 
 }

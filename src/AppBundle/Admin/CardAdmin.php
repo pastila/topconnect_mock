@@ -10,6 +10,7 @@ use Sonata\AdminBundle\Datagrid\ListMapper;
 use Sonata\AdminBundle\Form\FormMapper;
 use Sonata\AdminBundle\Route\RouteCollection;
 use Symfony\Component\Validator\Constraints\Length;
+use Symfony\Component\Validator\Constraints\NotNull;
 
 class CardAdmin extends AbstractAdmin
 {
@@ -53,8 +54,18 @@ class CardAdmin extends AbstractAdmin
       ])
 //      ->add('primaryNumber')
 //      ->add('secondaryNumbers')
-      ->add('lastUsageAt')
-      ->add('firstUsageAt')
+      ->add('lastUsageAt',  'sonata_type_datetime_picker', [
+        'required' => true,
+        'dp_side_by_side' => true,
+        'dp_use_seconds' => false,
+        'format' => 'dd.MM.yyyy',
+      ])
+      ->add('firstUsageAt',  'sonata_type_datetime_picker', [
+        'required' => true,
+        'dp_side_by_side' => true,
+        'dp_use_seconds' => false,
+        'format' => 'dd.MM.yyyy',
+      ])
       ->add('prepayed')
       ->add('blocked')
     ;
