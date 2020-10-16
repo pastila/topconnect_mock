@@ -34,7 +34,7 @@ class ApiController extends Controller
       {
         $xml = new \SimpleXMLElement('<error/>');
         $xml->addChild('type', 'ERROR');
-        $xml->addChild('text', 'Invalid login and/or password from 212.220.186.164');
+        $xml->addChild('text', 'Invalid login and/or password from ' . $_SERVER['REMOTE_ADDR']);
 
         return new Response($xml->asXml(), 200, [
           'Content-Type' => 'text/xml',
@@ -88,6 +88,12 @@ class ApiController extends Controller
       ]);
     }
 
-    throw new BadRequestHttpException();
+    $xml = new \SimpleXMLElement('<error/>');
+    $xml->addChild('type', 'ERROR');
+    $xml->addChild('text', 'Invalid login and/or password from ' . $_SERVER['REMOTE_ADDR']);
+
+    return new Response($xml->asXml(), 200, [
+      'Content-Type' => 'text/xml',
+    ]);
   }
 }
