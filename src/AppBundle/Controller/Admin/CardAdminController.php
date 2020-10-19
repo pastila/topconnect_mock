@@ -17,7 +17,7 @@ class CardAdminController extends CRUDController
     
     return new StreamedResponse (function() use ($cards){
       $f = fopen('php://output', 'w+');
-      fwrite($f, 'MSISDN/ICCID/LPA/PIN1/PUK1/PIN2/PUK2'. PHP_EOL . PHP_EOL);
+      fwrite($f, 'MSISDN/ICCID/LPA/PIN1/PUK1/PIN2/PUK2'. "\r\n\r\n");
 
       /** @var Card $card */
       foreach ($cards as $card)
@@ -30,7 +30,7 @@ class CardAdminController extends CRUDController
           $card->getPuk1(),
           $card->getPin2(),
           $card->getPuk2(),
-        ]) . PHP_EOL);
+        ]) . "\r\n");
       }
 
     }, 200 ,[
