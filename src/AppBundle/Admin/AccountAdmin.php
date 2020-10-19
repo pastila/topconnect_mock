@@ -53,8 +53,18 @@ class AccountAdmin extends AbstractAdmin
           new NotBlank(),
         ],
       ])
-      ->add('activeAt')
-      ->add('expireAt')
+      ->add('activeAt',  'sonata_type_datetime_picker', [
+        'required' => true,
+        'dp_side_by_side' => true,
+        'dp_use_seconds' => false,
+        'format' => 'dd.MM.yyyy',
+      ])
+      ->add('expireAt',  'sonata_type_datetime_picker', [
+        'required' => true,
+        'dp_side_by_side' => true,
+        'dp_use_seconds' => false,
+        'format' => 'dd.MM.yyyy',
+      ])
     ;
   }
 }
