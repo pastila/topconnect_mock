@@ -6,7 +6,6 @@ namespace AppBundle\Service\Card;
 
 use AppBundle\Entity\Account\Account;
 use AppBundle\Entity\Card\Card;
-use AppBundle\Exception\CardStat\NotProvidedMsisdnAndIccidException;
 use Doctrine\ORM\EntityManagerInterface;
 
 class CardInfoListBuilder
@@ -41,7 +40,7 @@ class CardInfoListBuilder
     if (isset($params['iccid']))
     {
       $cardQB
-        ->andWhere('c.msisdn = :iccid')
+        ->andWhere('c.iccid = :iccid')
         ->setParameter('iccid', $params['iccid']);
     }
 
