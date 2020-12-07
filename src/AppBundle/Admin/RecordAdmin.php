@@ -18,6 +18,7 @@ class RecordAdmin extends AbstractAdmin
     $this->setSubClasses([
       'sms' => 'AppBundle\Entity\Record\SmsRecord',
       'call' => 'AppBundle\Entity\Record\CallRecord',
+      'data' => 'AppBundle\Entity\Record\DataRecord',
     ]);
     parent::__construct($code, $class, $baseControllerName);
   }
@@ -47,42 +48,49 @@ class RecordAdmin extends AbstractAdmin
 
   protected function configureFormFields (FormMapper $form)
   {
-    $form
-      ->add('direction', 'Symfony\Component\Form\Extension\Core\Type\ChoiceType', [
-        'choices' => [
-          'Исходящий' => Record::DIRECTION_OUTCOMING,
-          'Входящий' => Record::DIRECTION_INCOMING,
-        ],
-      ])
-      ->add('secondPhoneNumber', null, [
-        'label' => 'Номер абонента',
-      ])
-    ;
+    if (in_array($this->getClass(), ['AppBundle\Entity\Record\CallRecord', 'AppBundle\Entity\Record\SmsRecord']))
+    {
+      $form
+        ->add('direction', 'Symfony\Component\Form\Extension\Core\Type\ChoiceType', [
+          'choices' => [
+            'Исходящий' => Record::DIRECTION_OUTCOMING,
+            'Входящий' => Record::DIRECTION_INCOMING,
+          ],
+        ])
+        ->add('secondPhoneNumber', null, [
+          'label' => 'Номер абонента',
+        ]);
 
-    if ($this->getClass() === 'AppBundle\Entity\Record\CallRecord')
-    {
-      $form
-        ->add('duration')
-        ->add('cCost', null, [
-          'label' => 'Стоимость',
-        ])
-      ;
+      if ($this->getClass() === 'AppBundle\Entity\Record\CallRecord')
+      {
+        $form
+          ->add('duration')
+          ->add('cCost', null, [
+            'label' => 'Стоимость',
+          ]);
+      }
+      elseif ($this->getClass() === 'AppBundle\Entity\Record\SmsRecord')
+      {
+        $form
+          ->add('text', null, [
+            'constraints' => [
+              new Length(['max' => 160]),
+            ],
+          ])
+          ->add('smsCost')
+          ->add('part', null, [
+            'constraints' => [
+              new Range(['min' => 1]),
+            ],
+          ]);
+      }
     }
-    elseif ($this->getClass() === 'AppBundle\Entity\Record\SmsRecord')
+    elseif ($this->getClass() === 'AppBundle\Entity\Record\DataRecord')
     {
       $form
-        ->add('text', null, [
-          'constraints' => [
-            new Length(['max' => 160]),
-          ],
-        ])
-        ->add('smsCost')
-        ->add('part', null, [
-          'constraints' => [
-            new Range(['min' => 1]),
-          ],
-        ])
-      ;
+        ->add('cost')
+        ->add('duration', 'Symfony\Component\Form\Extension\Core\Type\NumberType')
+        ->add('usageBytes');
     }
   }
 

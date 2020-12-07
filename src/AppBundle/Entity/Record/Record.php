@@ -14,7 +14,8 @@ use Gedmo\Timestampable\Traits\TimestampableEntity;
  * @ORM\DiscriminatorColumn(type="string", length=20, name="type")
  * @ORM\DiscriminatorMap({
  *   "sms"="AppBundle\Entity\Record\SmsRecord",
- *   "call"="AppBundle\Entity\Record\CallRecord"
+ *   "call"="AppBundle\Entity\Record\CallRecord",
+ *   "data"="AppBundle\Entity\Record\DataRecord"
  *   })
  */
 abstract class Record

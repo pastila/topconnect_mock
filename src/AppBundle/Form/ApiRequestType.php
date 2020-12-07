@@ -24,6 +24,7 @@ class ApiRequestType extends AbstractType
           'sbalance' => 'sbalance',
           'sblock' => 'sblock',
           'gccdr' => 'gccdr',
+          'gprscdr' => 'gprscdr',
         ],
       ])
       ->add('uname', 'Symfony\Component\Form\Extension\Core\Type\TextType', [

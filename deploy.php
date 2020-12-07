@@ -19,7 +19,6 @@ set('dump_assets', false);
 
 // Configure servers
 server('staging', 'staging.accurateweb.ru')
-  ->port(2122)
   ->user('deployer')
   ->identityFile()
   ->env('deploy_path', '/var/www/sites/topconnect_mock')
