@@ -160,6 +160,8 @@ class RecordListBuilder
       $item->addChild('cost', $record->getCost());
       $item->addChild('curr', 'EUR');
       $item->addChild('imsi');
+      $item->addChild('QoSid', $record->getQuosid());
+      $item->addChild('RG', $record->getRg());
       $item->addChild('end_session', $record->getEndAt() ? $record->getEndAt()->format('Y-m-d H:i:s') : null);
       $item->addChild('usage_b', $record->getUsageBytes());
     }
