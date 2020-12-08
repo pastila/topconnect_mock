@@ -31,7 +31,7 @@ class TransactionHistoryBuilder
       ->where('c.msisdn = :onum')
       ->setParameter('onum', $onum)
       ->andWhere('t.createdAt >= :from')
-      ->andWhere('r.createdAt <= :to')
+      ->andWhere('t.createdAt <= :to')
       ->setParameter('from', $started)
       ->setParameter('to', $finished)
       ->getQuery()
