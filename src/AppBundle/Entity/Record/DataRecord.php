@@ -328,7 +328,7 @@ class DataRecord extends Record
   {
     $this->usageBytes = $usageBytes;
     $this->inBytes = round($usageBytes / 2);
-    $this->outBytes = $usageBytes - $this->inBytes;
+    $this->outBytes = max($usageBytes - $this->inBytes, 1);
     $this->rate = $this->inBytes / $this->outBytes;
 
     return $this;
