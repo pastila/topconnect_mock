@@ -18,6 +18,7 @@ class TransactionAdmin extends AbstractAdmin
       ->add('card')
       ->add('orderId')
       ->add('amount')
+      ->add('createdAt')
 //      ->add('_action', null, [
 //        'actions' => [
 //          'edit' => [],
