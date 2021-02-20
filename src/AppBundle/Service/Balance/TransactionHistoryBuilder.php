@@ -22,6 +22,7 @@ class TransactionHistoryBuilder
     $onum = $params['onum'];
     $started = new \DateTime($params['started']);
     $finished = new \DateTime($params['finished']);
+    $finished->modify('+1 day');
 
     /** @var Transaction[] $transactions */
     $transactions = $this->entityManager
