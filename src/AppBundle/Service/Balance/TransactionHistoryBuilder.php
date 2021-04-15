@@ -33,6 +33,7 @@ class TransactionHistoryBuilder
       ->setParameter('onum', $onum)
       ->andWhere('t.createdAt >= :from')
       ->andWhere('t.createdAt <= :to')
+      ->groupBy('t')
       ->setParameter('from', $started)
       ->setParameter('to', $finished)
       ->getQuery()
