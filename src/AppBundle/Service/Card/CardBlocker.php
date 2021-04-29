@@ -26,6 +26,13 @@ class CardBlocker
       throw new \Exception(); //FIXME
     }
 
+    if ($card->isBlocked())
+    {
+      $xml = new \SimpleXMLElement('<sblock/>');
+      $xml->addChild('error_text', 'Specified card is already blocked!');
+      return $xml->asXML();
+    }
+
     $xml = new \SimpleXMLElement('<card/>');
     $xml->addChild('tsimid', $card->getId());
     $xml->addChild('inum', $card->getINum());

@@ -31,6 +31,7 @@ class BalanceTransactionFactory
     {
       return $this->getErrorXml('Amount format is incorrect');
     }
+    
     $amount = (float)$params['amount'];
     $curr = (string)$params['curr'];
     $orderId = (int)$params['orderid'];
