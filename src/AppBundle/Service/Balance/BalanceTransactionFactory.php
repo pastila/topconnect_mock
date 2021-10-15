@@ -6,6 +6,7 @@ namespace AppBundle\Service\Balance;
 
 use Accurateweb\SettingBundle\Model\Manager\SettingManagerInterface;
 use AppBundle\Entity\Account\Account;
+use AppBundle\Entity\Card\Card;
 use AppBundle\Entity\Transaction\Transaction;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\OptionsResolver\OptionsResolver;
@@ -52,6 +53,7 @@ class BalanceTransactionFactory
       return $this->getErrorXml('Incorrect OrderID value, must be: ' . ($lastOrderId + 1));
     }
 
+    /** @var Card $card */
     $card = $this->entityManager->getRepository('AppBundle:Card\Card')->findOneBy(['msisdn' => $onum]);
 
     if ($card === null)
@@ -72,6 +74,7 @@ class BalanceTransactionFactory
     $transaction->setAvailableAmount('Available amount');
     $account->setBalance($account->getBalance() - $amount);
     $card->setBalance($card->getBalance() + $amount);
+    $card->setLastUsageAt(new \DateTime());
     $this->entityManager->persist($transaction);
     $this->entityManager->persist($card);
     $this->entityManager->persist($account);
