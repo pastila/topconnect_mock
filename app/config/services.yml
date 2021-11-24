@@ -67,3 +67,9 @@ services:
     arguments: [~, AppBundle\Entity\Record\Record, ~]
     tags:
         - { name: sonata.admin, group: 'catalog', manager_type: orm, label: 'Звонки', show_in_dashboard: false }
+
+  app.admin.data_package_admin:
+    class: AppBundle\Admin\DataPackageAdmin
+    arguments: [~, AppBundle\Entity\Package\DataPackage, ~]
+    tags:
+        - { name: sonata.admin, group: 'catalog', manager_type: orm, label: 'Пакеты интернета' }

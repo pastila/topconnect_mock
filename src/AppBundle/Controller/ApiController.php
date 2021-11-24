@@ -2,6 +2,7 @@
 
 namespace AppBundle\Controller;
 
+use AppBundle\Service\Package\DataPackageService;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
@@ -75,6 +76,9 @@ class ApiController extends Controller
             break;
           case 'gprscdr':
             $result = $this->get('AppBundle\Service\CallRecord\RecordListBuilder')->getDataRecordList($account, $qData);
+            break;
+          case 'nav3':
+            $result = $this->get(DataPackageService::class)->getDataRecordList($account, $qData);
             break;
         }
       }
