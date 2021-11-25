@@ -25,6 +25,9 @@ class ApiRequestType extends AbstractType
           'sblock' => 'sblock',
           'gccdr' => 'gccdr',
           'gprscdr' => 'gprscdr',
+          'nav3' => 'nav3',
+          'navstat3' => 'navstat3',
+          'navcdr3' => 'navcdr3',
         ],
       ])
       ->add('uname', 'Symfony\Component\Form\Extension\Core\Type\TextType', [
