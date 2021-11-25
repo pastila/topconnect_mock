@@ -96,11 +96,9 @@ class DataPackageService
     /** @var Card $card */
     $card = $this->entityManager->getRepository(Card::class)->createQueryBuilder('c')
       ->where('c.msisdn = :onum')
-      ->andWhere('c.expiredAt > :now')
       ->setParameter('onum', $onum)
-      ->setParameter('now', new \DateTime())
       ->getQuery()
-      ->getResult();
+      ->getOneOrNullResult();
 
     if ($card === null)
     {
@@ -112,16 +110,57 @@ class DataPackageService
 
     foreach ($records as $record)
     {
+      if ($record->getExpireAt() >= new \DateTime())
+      {
+        $item = $xml->addChild('record');
+        $item->addChild('onum', $record->getCard()->getMsisdn());
+        $item->addChild('active', $record->getActivatedAt()->format('Y-m-d'));
+        $item->addChild('expire', $record->getExpireAt()->format('Y-m-d'));
+        $item->addChild('packetid', $record->getPackage()->getId());
+        $item->addChild('price', $record->getPrice());
+        $item->addChild('status', 'enabled');
+        $item->addChild('ordered', $record->getCreatedAt()->format('Y-m-d'));
+        $item->addChild('queries_left', 5); //хз
+        $item->addChild('queries_used', 3); //хз
+      }
+    }
+
+    return $xml->asXML();
+  }
+
+  /**
+   * @param Account $account
+   * @param $params
+   * @return bool|string
+   * @throws \Exception
+   */
+  public function getPackageListHistory (Account $account, $params)
+  {
+    $onum = $params['onum'];
+    $started = new \DateTime($params['started']);
+    $finished = new \DateTime($params['finished']);
+    $records = $this->entityManager->getRepository(DataPackageRecord::class)
+      ->createQueryBuilder('r')
+      ->where('r.createdAt >= :started')
+      ->andWhere('r.createdAt <= :finished')
+      ->andWhere('r.msisdn = :onum')
+      ->setParameter('onum', $onum)
+      ->setParameter('started', $started)
+      ->setParameter('finished', $finished)
+      ->getQuery()
+      ->getResult();
+
+    $xml = new \SimpleXMLElement('<result/>');
+
+    foreach ($records as $record)
+    {
       $item = $xml->addChild('record');
       $item->addChild('onum', $record->getCard()->getMsisdn());
       $item->addChild('active', $record->getActivatedAt()->format('Y-m-d'));
       $item->addChild('expire', $record->getExpireAt()->format('Y-m-d'));
       $item->addChild('packetid', $record->getPackage()->getId());
       $item->addChild('price', $record->getPrice());
-      $item->addChild('status', 'enabled');
       $item->addChild('ordered', $record->getCreatedAt()->format('Y-m-d'));
-      $item->addChild('queries_left', 5); //хз
-      $item->addChild('queries_used', 3); //хз
     }
 
     return $xml->asXML();

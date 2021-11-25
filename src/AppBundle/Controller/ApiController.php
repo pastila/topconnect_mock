@@ -83,6 +83,9 @@ class ApiController extends Controller
           case 'navstat3':
             $result = $this->get(DataPackageService::class)->getPackageList($account, $qData);
             break;
+          case 'navcdr3':
+            $result = $this->get(DataPackageService::class)->getPackageListHistory($account, $qData);
+            break;
         }
       }
       catch (\Exception $e)
