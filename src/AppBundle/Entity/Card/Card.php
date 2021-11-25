@@ -5,6 +5,7 @@ namespace AppBundle\Entity\Card;
 
 
 use AppBundle\Entity\Account\Account;
+use AppBundle\Entity\Package\DataPackageRecord;
 use AppBundle\Entity\Record\Record;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;
@@ -129,11 +130,17 @@ class Card
    */
   protected $records;
 
+  /**
+   * @var ArrayCollection|DataPackageRecord[]
+   * @ORM\OneToMany(targetEntity="AppBundle\Entity\Package\DataPackageRecord", mappedBy="card")
+   */
+  protected $dataPackageRecords;
+
   public function __construct ()
   {
     $this->records = new ArrayCollection();
+    $this->dataPackageRecords = new ArrayCollection();
   }
-
 
   /**
    * @return string
@@ -475,5 +482,23 @@ class Card
   public function getLpa ()
   {
     return sprintf('LPA:1$ecprsp.test.test$%s', base64_encode($this->msisdn));
+  }
+
+  /**
+   * @return DataPackageRecord[]|ArrayCollection
+   */
+  public function getDataPackageRecords ()
+  {
+    return $this->dataPackageRecords;
+  }
+
+  /**
+   * @param DataPackageRecord[]|ArrayCollection $dataPackageRecords
+   * @return $this
+   */
+  public function setDataPackageRecords ($dataPackageRecords)
+  {
+    $this->dataPackageRecords = $dataPackageRecords;
+    return $this;
   }
 }

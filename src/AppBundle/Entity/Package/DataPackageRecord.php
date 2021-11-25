@@ -25,7 +25,7 @@ class DataPackageRecord
 
   /**
    * @var Card
-   * @ORM\ManyToOne(targetEntity="AppBundle\Entity\Card\Card")
+   * @ORM\ManyToOne(targetEntity="AppBundle\Entity\Card\Card", inversedBy="dataPackageRecords")
    * @ORM\JoinColumn(nullable=true, onDelete="CASCADE")
    */
   private $card;

@@ -78,7 +78,10 @@ class ApiController extends Controller
             $result = $this->get('AppBundle\Service\CallRecord\RecordListBuilder')->getDataRecordList($account, $qData);
             break;
           case 'nav3':
-            $result = $this->get(DataPackageService::class)->getDataRecordList($account, $qData);
+            $result = $this->get(DataPackageService::class)->activatePackage($account, $qData);
+            break;
+          case 'navstat3':
+            $result = $this->get(DataPackageService::class)->getPackageList($account, $qData);
             break;
         }
       }

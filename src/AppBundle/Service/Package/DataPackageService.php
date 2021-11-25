@@ -83,4 +83,47 @@ class DataPackageService
 
     return $xml->asXML();
   }
+
+  /**
+   * @param Account $account
+   * @param $params
+   * @return bool|string
+   * @throws \Exception
+   */
+  public function getPackageList (Account $account, $params)
+  {
+    $onum = $params['onum'];
+    /** @var Card $card */
+    $card = $this->entityManager->getRepository(Card::class)->createQueryBuilder('c')
+      ->where('c.msisdn = :onum')
+      ->andWhere('c.expiredAt > :now')
+      ->setParameter('onum', $onum)
+      ->setParameter('now', new \DateTime())
+      ->getQuery()
+      ->getResult();
+
+    if ($card === null)
+    {
+      throw new \Exception(sprintf('Msisdn %s not found', $onum));
+    }
+
+    $records = $card->getDataPackageRecords();
+    $xml = new \SimpleXMLElement('<records/>');
+
+    foreach ($records as $record)
+    {
+      $item = $xml->addChild('record');
+      $item->addChild('onum', $record->getCard()->getMsisdn());
+      $item->addChild('active', $record->getActivatedAt()->format('Y-m-d'));
+      $item->addChild('expire', $record->getExpireAt()->format('Y-m-d'));
+      $item->addChild('packetid', $record->getPackage()->getId());
+      $item->addChild('price', $record->getPrice());
+      $item->addChild('status', 'enabled');
+      $item->addChild('ordered', $record->getCreatedAt()->format('Y-m-d'));
+      $item->addChild('queries_left', 5); //хз
+      $item->addChild('queries_used', 3); //хз
+    }
+
+    return $xml->asXML();
+  }
 }
