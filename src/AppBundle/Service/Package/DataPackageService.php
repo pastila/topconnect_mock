@@ -26,7 +26,7 @@ class DataPackageService
   public function activatePackage (Account $account, $params)
   {
     /** @var Card $card */
-    $card = $this->entityManager->getRepository('AppBundle:Card\Card')->findOneBy(['onum' => $params['onum']]);
+    $card = $this->entityManager->getRepository('AppBundle:Card\Card')->findOneBy(['msisdn' => $params['onum']]);
     /** @var DataPackage $package */
     $package = $this->entityManager->getRepository('AppBundle:Package\DataPackage')->findOneBy(['code' => $params['packetid']]);
     $timeframe = $params['timeframes'];
