@@ -77,14 +77,25 @@ class ApiController extends Controller
           case 'gprscdr':
             $result = $this->get('AppBundle\Service\CallRecord\RecordListBuilder')->getDataRecordList($account, $qData);
             break;
-          case 'nav3':
-            $result = $this->get(DataPackageService::class)->activatePackage($account, $qData);
-            break;
-          case 'navstat3':
-            $result = $this->get(DataPackageService::class)->getPackageList($account, $qData);
-            break;
+//          case 'nav3':
+//            $result = $this->get(DataPackageService::class)->activatePackage($account, $qData);
+//            break;
+//          case 'navstat3':
+//            $result = $this->get(DataPackageService::class)->getPackageList($account, $qData);
+//            break;
           case 'navcdr3':
             $result = $this->get(DataPackageService::class)->getPackageListHistory($account, $qData);
+            break;
+          case 'discount':
+            if (isset($qData['packettype']))
+            {
+              $result = $this->get(DataPackageService::class)->activatePackage($account, $qData);
+              break;
+            }
+            else
+            {
+              $result = $this->get(DataPackageService::class)->getPackageList($account, $qData);
+            }
             break;
         }
       }
