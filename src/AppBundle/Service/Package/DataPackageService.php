@@ -171,7 +171,7 @@ class DataPackageService
         $item->addChild('expire_date', $record->getExpireAt()->format('Y-m-d H:i:s'));
         $item->addChild('type', $record->getPackage()->getName());
         $item->addChild('cost', $record->getPrice());
-        $item->addChild('package_code', $record->getPackage()->getId());
+        $item->addChild('package_code', $record->getPackage()->getCode());
         $item->addChild('multistatus', 'active');
         $item->addChild('amount', '0');
         $item->addChild('dataLeft', '0');
