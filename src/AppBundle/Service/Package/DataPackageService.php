@@ -238,6 +238,7 @@ class DataPackageService
     $onum = $params['onum'];
     $started = new \DateTime($params['started']);
     $finished = new \DateTime($params['finished']);
+    /** @var DataPackageRecord[] $records */
     $records = $this->entityManager->getRepository(DataPackageRecord::class)
       ->createQueryBuilder('r')
       ->where('r.createdAt >= :started')
@@ -249,17 +250,31 @@ class DataPackageService
       ->getQuery()
       ->getResult();
 
-    $xml = new \SimpleXMLElement('<result/>');
+    $xml = new \SimpleXMLElement('<discount/>');
 
     foreach ($records as $record)
     {
-      $item = $xml->addChild('record');
+      $item = $xml->addChild('gprs');
+
+      /*
+<currency>EUR</currency>
+<cooldown>20160</cooldown>
+<amount>1048576000</amount>
+<activation_number>0</activation_number>
+<reorder_amount>0</reorder_amount>
+       */
+
       $item->addChild('onum', $record->getCard()->getMsisdn());
-      $item->addChild('active', $record->getActivatedAt()->format('Y-m-d'));
-      $item->addChild('expire', $record->getExpireAt()->format('Y-m-d'));
-      $item->addChild('packetid', $record->getPackage()->getId());
-      $item->addChild('price', $record->getPrice());
-      $item->addChild('ordered', $record->getCreatedAt()->format('Y-m-d'));
+      $item->addChild('activation_date', $record->getActivatedAt()->format('Y-m-d H:i:s'));
+      $item->addChild('expire_date', $record->getExpireAt()->format('Y-m-d H:i:s'));
+      $item->addChild('type', $record->getPackage()->getName());
+      $item->addChild('cost', $record->getPrice());
+      $item->addChild('tsimid', $record->getCard()->getId());
+      $item->addChild('currency', 'EUR');
+      $item->addChild('cooldown', $record->getPackage()->getVolume());
+      $item->addChild('amount', $record->getPackage()->getVolume());
+      $item->addChild('activation_number', '0');
+      $item->addChild('reorder_amount', '0');
     }
 
     return $xml->asXML();
