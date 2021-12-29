@@ -238,6 +238,7 @@ class DataPackageService
     $onum = $params['onum'];
     $started = new \DateTime($params['started']);
     $finished = new \DateTime($params['finished']);
+    $finished->modify('+1 day 00:00');
     /** @var DataPackageRecord[] $records */
     $records = $this->entityManager->getRepository(DataPackageRecord::class)
       ->createQueryBuilder('r')
