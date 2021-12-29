@@ -167,7 +167,7 @@ class DataPackageService
         $item = $xml->addChild('gprs');
         $item->addChild('onum', $record->getCard()->getMsisdn());
         $item->addChild('tsimid', $record->getCard()->getMsisdn());
-        $item->addChild('activation_date', $record->getActivatedAt()->format('Y-m-d H:i:s'));
+        $item->addChild('activation_date', $record->getCreatedAt()->format('Y-m-d H:i:s'));
         $item->addChild('expire_date', $record->getExpireAt()->format('Y-m-d H:i:s'));
         $item->addChild('type', $record->getPackage()->getName());
         $item->addChild('cost', $record->getPrice());
