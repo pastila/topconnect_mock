@@ -49,7 +49,7 @@ class DataPackageService
     }
 
     $record = new DataPackageRecord();
-    $record->setActivatedAt($expire);
+    $record->setActivatedAt(new \DateTime());
     $record->setExpireAt($expire);
     $record->setCard($card);
     $record->setPackage($package);
