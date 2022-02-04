@@ -48,6 +48,22 @@ class DataPackageService
       throw new \Exception('Not enough money');
     }
 
+    $existDataPackage = $this->entityManager->getRepository(DataPackageRecord::class)
+      ->createQueryBuilder('dr')
+      ->where('dr.expireAt > :now')
+      ->andWhere('dr.card = :card')
+      ->andWhere('dr.package = :package')
+      ->setParameter('card', $card)
+      ->setParameter('package', $package)
+      ->setParameter('now', new \DateTime())
+      ->getQuery()
+      ->getOneOrNullResult();
+
+    if ($existDataPackage !== null)
+    {
+      throw new \Exception('Package currently active');
+    }
+
     $record = new DataPackageRecord();
     $record->setActivatedAt(new \DateTime());
     $record->setExpireAt($expire);
