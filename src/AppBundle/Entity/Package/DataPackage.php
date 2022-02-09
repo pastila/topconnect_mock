@@ -220,6 +220,6 @@ class DataPackage
 
   public function __toString ()
   {
-    return $this->getName();
+    return sprintf('[%s] %s', $this->getCode(), $this->getName());
   }
 }
