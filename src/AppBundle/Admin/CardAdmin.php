@@ -30,6 +30,9 @@ class CardAdmin extends AbstractAdmin
           'calls' => [
             'template' => '@App/admin/card/calls_button.html.twig',
           ],
+          'packages' => [
+            'template' => '@App/admin/card/package_button.html.twig',
+          ],
           'edit' => [],
           'delete' => [],
         ]

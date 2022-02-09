@@ -45,7 +45,6 @@ services:
     tags:
         - { name: sonata.admin, group: 'catalog', manager_type: orm, label: 'Симки' }
 
-
   app.datapackagerecord.admin:
     class: AppBundle\Admin\DataPackageRecordAdmin
     arguments: [~, AppBundle\Entity\Package\DataPackageRecord, ~]
