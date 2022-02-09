@@ -41,8 +41,16 @@ services:
     arguments: [~, AppBundle\Entity\Card\Card, AppBundle:Admin/CardAdmin]
     calls:
       - [ addChild, [ '@app.admin.record_admin', 'card' ] ]
+      - [ addChild, [ '@app.datapackagerecord.admin', 'card' ] ]
     tags:
         - { name: sonata.admin, group: 'catalog', manager_type: orm, label: 'Симки' }
+
+
+  app.datapackagerecord.admin:
+    class: AppBundle\Admin\DataPackageRecordAdmin
+    arguments: [~, AppBundle\Entity\Package\DataPackageRecord, ~]
+    tags:
+      - { name: sonata.admin, group: 'catalog', manager_type: orm, label: 'Пакеты', show_in_dashboard: false }
 
   app.admin.service_admin:
     class: AppBundle\Admin\ServiceAdmin
