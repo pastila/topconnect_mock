@@ -1,0 +1,1455 @@
+<?xml version="1.0" ?>
+<getrates>
+<tariff>
+  <tariff_id>1310116</tariff_id>
+  <location_A>Any</location_A>
+  <direction_B>9146</direction_B>
+  <base_price>0.00000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310118</tariff_id>
+  <location_A>Any</location_A>
+  <direction_B>9100</direction_B>
+  <base_price>0.00000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310120</tariff_id>
+  <location_A>Any</location_A>
+  <direction_B>Short SMS</direction_B>
+  <base_price>9.00000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310122</tariff_id>
+  <location_A>Any</location_A>
+  <direction_B>37257997486</direction_B>
+  <base_price>0.00000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310124</tariff_id>
+  <location_A>Any</location_A>
+  <direction_B>37259389076</direction_B>
+  <base_price>0.00000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310126</tariff_id>
+  <location_A>Any</location_A>
+  <direction_B>9577&amp;9111&amp;9591</direction_B>
+  <base_price>0.00000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310128</tariff_id>
+  <location_A>Any</location_A>
+  <direction_B>32536</direction_B>
+  <base_price>1000000.00000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310129</tariff_id>
+  <location_A>Any</location_A>
+  <direction_B>85298866622</direction_B>
+  <base_price>10000000.00000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310131</tariff_id>
+  <location_A>SMS-Zone-Europe</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310133</tariff_id>
+  <location_A>Turkey</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310135</tariff_id>
+  <location_A>Russia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310137</tariff_id>
+  <location_A>Kazakhstan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310139</tariff_id>
+  <location_A>Singapore</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310141</tariff_id>
+  <location_A>India</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310143</tariff_id>
+  <location_A>Malaysia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310145</tariff_id>
+  <location_A>Egypt</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310147</tariff_id>
+  <location_A>Afghanistan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.60000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310149</tariff_id>
+  <location_A>Albania</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310151</tariff_id>
+  <location_A>Algeria</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310153</tariff_id>
+  <location_A>Andorra</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310155</tariff_id>
+  <location_A>Angola</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310157</tariff_id>
+  <location_A>Anguilla</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310159</tariff_id>
+  <location_A>Antigua and Barbuda</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310161</tariff_id>
+  <location_A>Argentine</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310163</tariff_id>
+  <location_A>Armenia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310165</tariff_id>
+  <location_A>Aruba</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310167</tariff_id>
+  <location_A>Australia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310169</tariff_id>
+  <location_A>Azerbijan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310171</tariff_id>
+  <location_A>Bahamas</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310173</tariff_id>
+  <location_A>Bahrain</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310175</tariff_id>
+  <location_A>Bangladesh</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310177</tariff_id>
+  <location_A>Barbados</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310179</tariff_id>
+  <location_A>Belarus</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310181</tariff_id>
+  <location_A>Benin</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310183</tariff_id>
+  <location_A>Bhutan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310185</tariff_id>
+  <location_A>Bolivia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310187</tariff_id>
+  <location_A>Bosnia and Herzegovina</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310189</tariff_id>
+  <location_A>Brazil</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310191</tariff_id>
+  <location_A>British Virgin Isl.</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310193</tariff_id>
+  <location_A>Brunei</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310195</tariff_id>
+  <location_A>Burkina Faso</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310197</tariff_id>
+  <location_A>Burundi</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310199</tariff_id>
+  <location_A>Cambodia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310201</tariff_id>
+  <location_A>Canada</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310203</tariff_id>
+  <location_A>Cape Verde Island</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310205</tariff_id>
+  <location_A>Cayman Islands</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310207</tariff_id>
+  <location_A>Central Africa</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310209</tariff_id>
+  <location_A>Chad</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310211</tariff_id>
+  <location_A>Chile</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310213</tariff_id>
+  <location_A>China</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310215</tariff_id>
+  <location_A>Colombia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310217</tariff_id>
+  <location_A>Congo Dem. Republic</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310219</tariff_id>
+  <location_A>Cook Islands</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310221</tariff_id>
+  <location_A>Costa Rica</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310223</tariff_id>
+  <location_A>Cote Divoire</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310225</tariff_id>
+  <location_A>Croatia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310227</tariff_id>
+  <location_A>Croatia</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310229</tariff_id>
+  <location_A>Cuba</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310231</tariff_id>
+  <location_A>Djibouti</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310233</tariff_id>
+  <location_A>Dominica</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310235</tariff_id>
+  <location_A>Dominican Republic</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310237</tariff_id>
+  <location_A>Ecuador</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310239</tariff_id>
+  <location_A>El Salvador</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310241</tariff_id>
+  <location_A>Equatorial Guinea</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310243</tariff_id>
+  <location_A>Faeroe Islands</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310245</tariff_id>
+  <location_A>Gambia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310247</tariff_id>
+  <location_A>Georgia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310249</tariff_id>
+  <location_A>Ghana</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310251</tariff_id>
+  <location_A>Greenland</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310253</tariff_id>
+  <location_A>Grenada</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310255</tariff_id>
+  <location_A>Guatemala</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310257</tariff_id>
+  <location_A>Guinea</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310259</tariff_id>
+  <location_A>Guinea-Bissau</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310261</tariff_id>
+  <location_A>Haiti</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310263</tariff_id>
+  <location_A>Honduras</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310265</tariff_id>
+  <location_A>HongKong</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310267</tariff_id>
+  <location_A>Indonesia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310269</tariff_id>
+  <location_A>Iran</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310271</tariff_id>
+  <location_A>Iraq</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310273</tariff_id>
+  <location_A>Israel</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310275</tariff_id>
+  <location_A>Palestine</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.50000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310277</tariff_id>
+  <location_A>Jamaica</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310279</tariff_id>
+  <location_A>Japan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310281</tariff_id>
+  <location_A>Jordan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310283</tariff_id>
+  <location_A>Kenya</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310285</tariff_id>
+  <location_A>Kuwait</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310287</tariff_id>
+  <location_A>Kyrgyzstan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310289</tariff_id>
+  <location_A>Korea (South)</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310291</tariff_id>
+  <location_A>Laos</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310293</tariff_id>
+  <location_A>Lebanon</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310295</tariff_id>
+  <location_A>Lesotho</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310297</tariff_id>
+  <location_A>Liberia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310299</tariff_id>
+  <location_A>Libya</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>2.15000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310301</tariff_id>
+  <location_A>Macao</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310303</tariff_id>
+  <location_A>Macedonia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310305</tariff_id>
+  <location_A>Madagascar</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310307</tariff_id>
+  <location_A>Malawi</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310309</tariff_id>
+  <location_A>Maldives</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310311</tariff_id>
+  <location_A>Mali</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310313</tariff_id>
+  <location_A>Mauritius</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310315</tariff_id>
+  <location_A>Mexico</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310317</tariff_id>
+  <location_A>Moldova</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310319</tariff_id>
+  <location_A>Monaco</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310321</tariff_id>
+  <location_A>Mongolia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310323</tariff_id>
+  <location_A>Montenegro</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310325</tariff_id>
+  <location_A>Morocco</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310327</tariff_id>
+  <location_A>Mozambique</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310329</tariff_id>
+  <location_A>Namibia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310331</tariff_id>
+  <location_A>Nepal</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310333</tariff_id>
+  <location_A>Netherlands Antilles</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310335</tariff_id>
+  <location_A>New Zealand</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310337</tariff_id>
+  <location_A>Nicaragua</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310339</tariff_id>
+  <location_A>Niger</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310341</tariff_id>
+  <location_A>Nigeria</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310343</tariff_id>
+  <location_A>Oman</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310345</tariff_id>
+  <location_A>Pakistan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310347</tariff_id>
+  <location_A>Panama</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310349</tariff_id>
+  <location_A>Papua New Guinea</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310351</tariff_id>
+  <location_A>Paraguay</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310353</tariff_id>
+  <location_A>Peru</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310355</tariff_id>
+  <location_A>Philippines</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310357</tariff_id>
+  <location_A>Puerto Rico</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310359</tariff_id>
+  <location_A>Qatar</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310361</tariff_id>
+  <location_A>Saudi Arabia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310363</tariff_id>
+  <location_A>Samoa</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310365</tariff_id>
+  <location_A>Serbia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310367</tariff_id>
+  <location_A>Seychelles</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310369</tariff_id>
+  <location_A>Sierra Leone</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310371</tariff_id>
+  <location_A>South Africa</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310373</tariff_id>
+  <location_A>Sri Lanka</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310375</tariff_id>
+  <location_A>St.Kitts</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310377</tariff_id>
+  <location_A>St.Lucia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310379</tariff_id>
+  <location_A>St.Vincent / Grenada Mobile</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310381</tariff_id>
+  <location_A>Switzerland</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310383</tariff_id>
+  <location_A>Syria</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310385</tariff_id>
+  <location_A>Taiwan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310387</tariff_id>
+  <location_A>Tajikistan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310389</tariff_id>
+  <location_A>Tanzania</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310391</tariff_id>
+  <location_A>Thailand</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310393</tariff_id>
+  <location_A>Togo</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310395</tariff_id>
+  <location_A>Tonga Islands</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310397</tariff_id>
+  <location_A>Trinidad &amp;Tobago</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310399</tariff_id>
+  <location_A>Tunisia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310401</tariff_id>
+  <location_A>Turk &amp; Caicos Isl.</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310403</tariff_id>
+  <location_A>Turkmenistan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310405</tariff_id>
+  <location_A>Uganda</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310407</tariff_id>
+  <location_A>Ukraine</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310409</tariff_id>
+  <location_A>United Arab Em.</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310411</tariff_id>
+  <location_A>Uruguay</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310413</tariff_id>
+  <location_A>Uzbekistan</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310415</tariff_id>
+  <location_A>Vanuatu Republic</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310417</tariff_id>
+  <location_A>Venezuela</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310419</tariff_id>
+  <location_A>Vietnam</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310421</tariff_id>
+  <location_A>Zambia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310423</tariff_id>
+  <location_A>Zimbabwe</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310425</tariff_id>
+  <location_A>Austria</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310427</tariff_id>
+  <location_A>Austria</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310429</tariff_id>
+  <location_A>Belgium</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310431</tariff_id>
+  <location_A>Belgium</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310433</tariff_id>
+  <location_A>Bulgaria</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310435</tariff_id>
+  <location_A>Bulgaria</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310437</tariff_id>
+  <location_A>Czech.Rep.</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310439</tariff_id>
+  <location_A>Czech.Rep.</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310441</tariff_id>
+  <location_A>Cyprus</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310443</tariff_id>
+  <location_A>Cyprus</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310445</tariff_id>
+  <location_A>Denmark</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310447</tariff_id>
+  <location_A>Denmark</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310449</tariff_id>
+  <location_A>Estonia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310451</tariff_id>
+  <location_A>Estonia</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310453</tariff_id>
+  <location_A>Finland</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310455</tariff_id>
+  <location_A>Finland</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310457</tariff_id>
+  <location_A>France</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310459</tariff_id>
+  <location_A>France</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310461</tariff_id>
+  <location_A>Germany</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310463</tariff_id>
+  <location_A>Germany</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310465</tariff_id>
+  <location_A>Gibraltar</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310467</tariff_id>
+  <location_A>Gibraltar</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310469</tariff_id>
+  <location_A>Greece</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310471</tariff_id>
+  <location_A>Greece</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310473</tariff_id>
+  <location_A>Hungary</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310475</tariff_id>
+  <location_A>Hungary</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310477</tariff_id>
+  <location_A>Iceland</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310479</tariff_id>
+  <location_A>Iceland</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310481</tariff_id>
+  <location_A>Ireland</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310483</tariff_id>
+  <location_A>Ireland</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310485</tariff_id>
+  <location_A>Italy</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310487</tariff_id>
+  <location_A>Italy</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310489</tariff_id>
+  <location_A>Latvia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310491</tariff_id>
+  <location_A>Latvia</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310493</tariff_id>
+  <location_A>Liechtenstein</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310495</tariff_id>
+  <location_A>Liechtenstein</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310497</tariff_id>
+  <location_A>Lithuania</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310499</tariff_id>
+  <location_A>Lithuania</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310501</tariff_id>
+  <location_A>Luxembourg</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310503</tariff_id>
+  <location_A>Luxembourg</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310505</tariff_id>
+  <location_A>Malta</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310507</tariff_id>
+  <location_A>Malta</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310509</tariff_id>
+  <location_A>Netherlands</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310511</tariff_id>
+  <location_A>Netherlands</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310513</tariff_id>
+  <location_A>Norway</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310515</tariff_id>
+  <location_A>Norway</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310517</tariff_id>
+  <location_A>Poland</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310519</tariff_id>
+  <location_A>Poland</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310521</tariff_id>
+  <location_A>Portugal</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310523</tariff_id>
+  <location_A>Portugal</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310525</tariff_id>
+  <location_A>Reunion Island</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310527</tariff_id>
+  <location_A>Reunion Island</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310529</tariff_id>
+  <location_A>Romania</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310531</tariff_id>
+  <location_A>Romania</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310533</tariff_id>
+  <location_A>San Marino</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310535</tariff_id>
+  <location_A>San Marino</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310537</tariff_id>
+  <location_A>Slovakia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310539</tariff_id>
+  <location_A>Slovakia</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310541</tariff_id>
+  <location_A>Slovenia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310543</tariff_id>
+  <location_A>Slovenia</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310545</tariff_id>
+  <location_A>Spain</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310547</tariff_id>
+  <location_A>Spain</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310549</tariff_id>
+  <location_A>Sweden</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310551</tariff_id>
+  <location_A>Sweden</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310553</tariff_id>
+  <location_A>United Kingdom</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310555</tariff_id>
+  <location_A>United Kingdom</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310557</tariff_id>
+  <location_A>Vatican City</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310559</tariff_id>
+  <location_A>Vatican City</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310561</tariff_id>
+  <location_A>Guadeloupe</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310563</tariff_id>
+  <location_A>Guadeloupe</location_A>
+  <direction_B>SMS_Zone_EU</direction_B>
+  <base_price>0.11000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310565</tariff_id>
+  <location_A>USA</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310567</tariff_id>
+  <location_A>USA Virgin Islands</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.19000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310569</tariff_id>
+  <location_A>Bermuda</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310571</tariff_id>
+  <location_A>Surinam</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310573</tariff_id>
+  <location_A>Montserrat</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310575</tariff_id>
+  <location_A>Faulkland Islands</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310577</tariff_id>
+  <location_A>New Caledonia</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310579</tariff_id>
+  <location_A>Swaziland</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310581</tariff_id>
+  <location_A>MCP</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310583</tariff_id>
+  <location_A>Myanmar</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310585</tariff_id>
+  <location_A>WMS</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310587</tariff_id>
+  <location_A>Satellite Aeromobile</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310589</tariff_id>
+  <location_A>Gabon</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.85000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310591</tariff_id>
+  <location_A>Satellite Onwaves</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310593</tariff_id>
+  <location_A>Botswana</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>1.25000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310595</tariff_id>
+  <location_A>Rwanda</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.49000 EUR</base_price>
+</tariff>
+<tariff>
+  <tariff_id>1310597</tariff_id>
+  <location_A>Mayotte Island</location_A>
+  <direction_B>Any</direction_B>
+  <base_price>0.35000 EUR</base_price>
+</tariff>
+</getrates>
