@@ -1,0 +1,4965 @@
+<?xml version="1.0" ?>
+<getrates>
+<inbound>
+<tariff>
+  <tariff_id>103573572</tariff_id>
+  <direction>Afghanistan</direction>
+  <base_price>0.95000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573570</tariff_id>
+  <direction>Albania</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573568</tariff_id>
+  <direction>Algeria</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573566</tariff_id>
+  <direction>Andorra</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573564</tariff_id>
+  <direction>Angola</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573562</tariff_id>
+  <direction>Anguilla</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573560</tariff_id>
+  <direction>Antigua and Barbuda</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573558</tariff_id>
+  <direction>Argentine</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573556</tariff_id>
+  <direction>Armenia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573552</tariff_id>
+  <direction>Aruba</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573550</tariff_id>
+  <direction>Australia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573548</tariff_id>
+  <direction>Austria</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573546</tariff_id>
+  <direction>Azerbijan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573544</tariff_id>
+  <direction>Bahamas</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573542</tariff_id>
+  <direction>Bahrain</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573540</tariff_id>
+  <direction>Bangladesh</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573538</tariff_id>
+  <direction>Barbados</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573536</tariff_id>
+  <direction>Belarus</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573534</tariff_id>
+  <direction>Belgium</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573532</tariff_id>
+  <direction>Benin</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573530</tariff_id>
+  <direction>Bermuda</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573528</tariff_id>
+  <direction>Bhutan</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573526</tariff_id>
+  <direction>Bolivia</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573524</tariff_id>
+  <direction>Bosnia-Herzegovina</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573522</tariff_id>
+  <direction>Botswana</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573520</tariff_id>
+  <direction>Brazil</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573518</tariff_id>
+  <direction>British Virgin Isl.</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573516</tariff_id>
+  <direction>Brunei</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573514</tariff_id>
+  <direction>Bulgaria</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573512</tariff_id>
+  <direction>Burkina Faso</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573510</tariff_id>
+  <direction>Burundi</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573508</tariff_id>
+  <direction>Cambodia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573506</tariff_id>
+  <direction>Canada</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573504</tariff_id>
+  <direction>Cape Verde Island</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573502</tariff_id>
+  <direction>Cayman Islands</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573500</tariff_id>
+  <direction>Central Africa</direction>
+  <base_price>0.95000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573498</tariff_id>
+  <direction>Chad</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573496</tariff_id>
+  <direction>Chile</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573494</tariff_id>
+  <direction>China</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573492</tariff_id>
+  <direction>Colombia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573490</tariff_id>
+  <direction>Congo Dem. Republic</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573488</tariff_id>
+  <direction>Cook Islands</direction>
+  <base_price>0.95000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573486</tariff_id>
+  <direction>Costa Rica</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573484</tariff_id>
+  <direction>Cote Divoire</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573482</tariff_id>
+  <direction>Croatia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573480</tariff_id>
+  <direction>Cuba</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573478</tariff_id>
+  <direction>Cyprus</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573476</tariff_id>
+  <direction>Czech.Rep.</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573474</tariff_id>
+  <direction>Denmark</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573472</tariff_id>
+  <direction>Djibouti</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573470</tariff_id>
+  <direction>Dominica</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573468</tariff_id>
+  <direction>Dominican Republic</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573466</tariff_id>
+  <direction>Ecuador</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573464</tariff_id>
+  <direction>Egypt</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573460</tariff_id>
+  <direction>El Salvador</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573574</tariff_id>
+  <direction>Equatorial Guinea</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573458</tariff_id>
+  <direction>Estonia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573456</tariff_id>
+  <direction>Faeroe Islands</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573452</tariff_id>
+  <direction>Finland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573450</tariff_id>
+  <direction>France</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573448</tariff_id>
+  <direction>Gabon</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573446</tariff_id>
+  <direction>Gambia</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573444</tariff_id>
+  <direction>Georgia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573442</tariff_id>
+  <direction>Germany</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573440</tariff_id>
+  <direction>Ghana</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573438</tariff_id>
+  <direction>Gibraltar</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573436</tariff_id>
+  <direction>Greece</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573434</tariff_id>
+  <direction>Greenland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573432</tariff_id>
+  <direction>Grenada</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573430</tariff_id>
+  <direction>Guadeloupe</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573428</tariff_id>
+  <direction>Guatemala</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573426</tariff_id>
+  <direction>Guinea</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573424</tariff_id>
+  <direction>Guinea-Bissau</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573422</tariff_id>
+  <direction>Haiti</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573420</tariff_id>
+  <direction>Honduras</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573418</tariff_id>
+  <direction>HongKong</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573416</tariff_id>
+  <direction>Hungary</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573414</tariff_id>
+  <direction>Iceland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573828</tariff_id>
+  <direction>India</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573826</tariff_id>
+  <direction>India Tata</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573824</tariff_id>
+  <direction>Indonesia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573820</tariff_id>
+  <direction>Iran</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573818</tariff_id>
+  <direction>Iraq</direction>
+  <base_price>0.95000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573816</tariff_id>
+  <direction>Ireland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573814</tariff_id>
+  <direction>Israel</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573812</tariff_id>
+  <direction>Italy</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573810</tariff_id>
+  <direction>Jamaica</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573808</tariff_id>
+  <direction>Japan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573806</tariff_id>
+  <direction>Jordan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573804</tariff_id>
+  <direction>Kazakhstan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573800</tariff_id>
+  <direction>Kenya</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573798</tariff_id>
+  <direction>Korea (South)</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573796</tariff_id>
+  <direction>Kuwait</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573794</tariff_id>
+  <direction>Kyrgyzstan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573792</tariff_id>
+  <direction>Laos</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573790</tariff_id>
+  <direction>Latvia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573788</tariff_id>
+  <direction>Lebanon</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573786</tariff_id>
+  <direction>Lesotho</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573784</tariff_id>
+  <direction>Liberia</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573782</tariff_id>
+  <direction>Libya</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573780</tariff_id>
+  <direction>Liechtenstein</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573778</tariff_id>
+  <direction>Lithuania</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573776</tariff_id>
+  <direction>Luxembourg</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573772</tariff_id>
+  <direction>Macao</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573770</tariff_id>
+  <direction>Macedonia</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573768</tariff_id>
+  <direction>Madagascar</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573766</tariff_id>
+  <direction>Malawi</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573764</tariff_id>
+  <direction>Malaysia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573762</tariff_id>
+  <direction>Maldives</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573760</tariff_id>
+  <direction>Mali</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573758</tariff_id>
+  <direction>Malta</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573756</tariff_id>
+  <direction>Mauritius</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573754</tariff_id>
+  <direction>Mayotte Island</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573774</tariff_id>
+  <direction>MCP</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573752</tariff_id>
+  <direction>Mexico</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573750</tariff_id>
+  <direction>Moldova</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573748</tariff_id>
+  <direction>Monaco</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573746</tariff_id>
+  <direction>Mongolia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573742</tariff_id>
+  <direction>Montenegro</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573740</tariff_id>
+  <direction>Montenegro Mobile</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573738</tariff_id>
+  <direction>Montserrat</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573736</tariff_id>
+  <direction>Morocco</direction>
+  <base_price>0.95000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573734</tariff_id>
+  <direction>Mozambique</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573732</tariff_id>
+  <direction>Myanmar</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573730</tariff_id>
+  <direction>Namibia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573728</tariff_id>
+  <direction>Nepal</direction>
+  <base_price>0.95000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573726</tariff_id>
+  <direction>Netherlands</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573724</tariff_id>
+  <direction>Netherlands Antilles</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573722</tariff_id>
+  <direction>New Caledonia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573720</tariff_id>
+  <direction>New Zealand</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573718</tariff_id>
+  <direction>Nicaragua</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573716</tariff_id>
+  <direction>Niger</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573714</tariff_id>
+  <direction>Nigeria</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573712</tariff_id>
+  <direction>Norway</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573710</tariff_id>
+  <direction>Oman</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573708</tariff_id>
+  <direction>Onwaves</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573706</tariff_id>
+  <direction>Pakistan</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573704</tariff_id>
+  <direction>Palestine</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573702</tariff_id>
+  <direction>Panama</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573700</tariff_id>
+  <direction>Papua New Guinea</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573698</tariff_id>
+  <direction>Paraguay</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573696</tariff_id>
+  <direction>Peru</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573694</tariff_id>
+  <direction>Philippines</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573692</tariff_id>
+  <direction>Poland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573690</tariff_id>
+  <direction>Portugal</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573688</tariff_id>
+  <direction>Puerto Rico</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573686</tariff_id>
+  <direction>Qatar</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573684</tariff_id>
+  <direction>Reunion Island</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573682</tariff_id>
+  <direction>Romania</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573680</tariff_id>
+  <direction>Russia Mobile</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573678</tariff_id>
+  <direction>Russia Mobile MTS</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573674</tariff_id>
+  <direction>Rwanda</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573672</tariff_id>
+  <direction>Samoa</direction>
+  <base_price>2.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573670</tariff_id>
+  <direction>San Marino</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573668</tariff_id>
+  <direction>Saudi Arabia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573666</tariff_id>
+  <direction>Serbia</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573664</tariff_id>
+  <direction>Serbia Kosovo</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573662</tariff_id>
+  <direction>Seychelles</direction>
+  <base_price>2.90000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573660</tariff_id>
+  <direction>Sierra Leone</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573658</tariff_id>
+  <direction>Singapore</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573656</tariff_id>
+  <direction>Slovakia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573654</tariff_id>
+  <direction>Slovenia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573652</tariff_id>
+  <direction>South Africa</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573650</tariff_id>
+  <direction>Spain</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573648</tariff_id>
+  <direction>Sri Lanka</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573646</tariff_id>
+  <direction>St.Kitts</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573644</tariff_id>
+  <direction>St.Lucia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573642</tariff_id>
+  <direction>St.Vincent / Grenada</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573640</tariff_id>
+  <direction>St.Vincent / Grenada Mobile</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573638</tariff_id>
+  <direction>Surinam</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573636</tariff_id>
+  <direction>Swaziland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573634</tariff_id>
+  <direction>Sweden</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573632</tariff_id>
+  <direction>Switzerland</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573630</tariff_id>
+  <direction>Syria</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573628</tariff_id>
+  <direction>Taiwan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573626</tariff_id>
+  <direction>Tajikistan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573624</tariff_id>
+  <direction>Tanzania</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573622</tariff_id>
+  <direction>Thailand</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573620</tariff_id>
+  <direction>Togo</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573618</tariff_id>
+  <direction>Tonga Islands</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573616</tariff_id>
+  <direction>Trinidad &amp;Tobago</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573614</tariff_id>
+  <direction>Tunisia</direction>
+  <base_price>0.95000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573612</tariff_id>
+  <direction>Turk &amp; Caicos Isl.</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573610</tariff_id>
+  <direction>Turkey</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573608</tariff_id>
+  <direction>Turkmenistan</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573602</tariff_id>
+  <direction>Uganda</direction>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573600</tariff_id>
+  <direction>Ukraine</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573598</tariff_id>
+  <direction>United Arab Em.</direction>
+  <base_price>2.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573596</tariff_id>
+  <direction>United Kingdom</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573594</tariff_id>
+  <direction>Uruguay</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573606</tariff_id>
+  <direction>USA</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573604</tariff_id>
+  <direction>USA Virgin Islands</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573592</tariff_id>
+  <direction>Uzbekistan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573588</tariff_id>
+  <direction>Vanuatu Republic</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573586</tariff_id>
+  <direction>Vatican City</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573584</tariff_id>
+  <direction>Venezuela</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573582</tariff_id>
+  <direction>Vietnam</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573580</tariff_id>
+  <direction>WMS</direction>
+  <base_price>4.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573578</tariff_id>
+  <direction>Zambia</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573576</tariff_id>
+  <direction>Zimbabwe</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+</inbound>
+<outbound>
+<tariff>
+  <tariff_id>103574243</tariff_id>
+  <direction>Afghanistan</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574241</tariff_id>
+  <direction>Albania</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574239</tariff_id>
+  <direction>Algeria</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574237</tariff_id>
+  <direction>Andorra</direction>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574235</tariff_id>
+  <direction>Angola</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574233</tariff_id>
+  <direction>Anguilla</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574231</tariff_id>
+  <direction>Antigua and Barbuda</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574229</tariff_id>
+  <direction>Argentine</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574227</tariff_id>
+  <direction>Armenia</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574223</tariff_id>
+  <direction>Aruba</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574221</tariff_id>
+  <direction>Australia</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574219</tariff_id>
+  <direction>Austria</direction>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574217</tariff_id>
+  <direction>Azerbijan</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574215</tariff_id>
+  <direction>Bahamas</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574213</tariff_id>
+  <direction>Bahrain</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574211</tariff_id>
+  <direction>Bangladesh</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574209</tariff_id>
+  <direction>Barbados</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574207</tariff_id>
+  <direction>Belarus</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574205</tariff_id>
+  <direction>Belgium</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574203</tariff_id>
+  <direction>Benin</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574201</tariff_id>
+  <direction>Bermuda</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574199</tariff_id>
+  <direction>Bhutan</direction>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574197</tariff_id>
+  <direction>Bolivia</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574195</tariff_id>
+  <direction>Bosnia-Herzegovina</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574193</tariff_id>
+  <direction>Botswana</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574191</tariff_id>
+  <direction>Brazil</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574189</tariff_id>
+  <direction>British Virgin Isl.</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574187</tariff_id>
+  <direction>Brunei</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574185</tariff_id>
+  <direction>Bulgaria</direction>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574183</tariff_id>
+  <direction>Burkina Faso</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574181</tariff_id>
+  <direction>Burundi</direction>
+  <base_price>0.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574179</tariff_id>
+  <direction>Cambodia</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574177</tariff_id>
+  <direction>Cameroon</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574175</tariff_id>
+  <direction>Canada</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574173</tariff_id>
+  <direction>Cape Verde Island</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574171</tariff_id>
+  <direction>Cayman Islands</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574169</tariff_id>
+  <direction>Central Africa</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574167</tariff_id>
+  <direction>Chad</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574165</tariff_id>
+  <direction>Chile</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574163</tariff_id>
+  <direction>China</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574161</tariff_id>
+  <direction>Colombia</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574159</tariff_id>
+  <direction>Congo Dem. Republic</direction>
+  <base_price>0.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574157</tariff_id>
+  <direction>Cook Islands</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574155</tariff_id>
+  <direction>Costa Rica</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574153</tariff_id>
+  <direction>Cote Divoire</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574151</tariff_id>
+  <direction>Croatia</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574149</tariff_id>
+  <direction>Cuba</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574147</tariff_id>
+  <direction>Cyprus</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574145</tariff_id>
+  <direction>Czech.Rep.</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574143</tariff_id>
+  <direction>Denmark</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574141</tariff_id>
+  <direction>Djibouti</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574139</tariff_id>
+  <direction>Dominica</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574137</tariff_id>
+  <direction>Dominican Republic</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574135</tariff_id>
+  <direction>Ecuador</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574133</tariff_id>
+  <direction>Egypt</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574129</tariff_id>
+  <direction>El Salvador</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574127</tariff_id>
+  <direction>Equatorial Guinea</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574125</tariff_id>
+  <direction>Estonia</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574123</tariff_id>
+  <direction>Faeroe Islands</direction>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574119</tariff_id>
+  <direction>Finland</direction>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574117</tariff_id>
+  <direction>France</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574114</tariff_id>
+  <direction>Gabon</direction>
+  <base_price>0.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574112</tariff_id>
+  <direction>Gambia</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574110</tariff_id>
+  <direction>Georgia</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574108</tariff_id>
+  <direction>Germany</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574106</tariff_id>
+  <direction>Ghana</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574104</tariff_id>
+  <direction>Gibraltar</direction>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574102</tariff_id>
+  <direction>Greece</direction>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574100</tariff_id>
+  <direction>Greenland</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574098</tariff_id>
+  <direction>Grenada</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574116</tariff_id>
+  <direction>GSM on Board</direction>
+  <base_price>0.21000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574096</tariff_id>
+  <direction>Guadeloupe</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574094</tariff_id>
+  <direction>Guatemala</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574092</tariff_id>
+  <direction>Guinea</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574090</tariff_id>
+  <direction>Guinea-Bissau</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574088</tariff_id>
+  <direction>Haiti</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574086</tariff_id>
+  <direction>Honduras</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574084</tariff_id>
+  <direction>HongKong</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574082</tariff_id>
+  <direction>Hungary</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574080</tariff_id>
+  <direction>Iceland</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574078</tariff_id>
+  <direction>India</direction>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574076</tariff_id>
+  <direction>India Tata</direction>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574074</tariff_id>
+  <direction>Indonesia</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574070</tariff_id>
+  <direction>Iran</direction>
+  <base_price>0.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574068</tariff_id>
+  <direction>Iraq</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574066</tariff_id>
+  <direction>Ireland</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574064</tariff_id>
+  <direction>Israel</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574062</tariff_id>
+  <direction>Italy</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574060</tariff_id>
+  <direction>Jamaica</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574058</tariff_id>
+  <direction>Japan</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574056</tariff_id>
+  <direction>Jordan</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574054</tariff_id>
+  <direction>Kazakhstan</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574050</tariff_id>
+  <direction>Kenya</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574048</tariff_id>
+  <direction>Korea (South)</direction>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574046</tariff_id>
+  <direction>Kuwait</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574044</tariff_id>
+  <direction>Kyrgyzstan</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574042</tariff_id>
+  <direction>Laos</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574040</tariff_id>
+  <direction>Latvia</direction>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574038</tariff_id>
+  <direction>Lebanon</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574036</tariff_id>
+  <direction>Lesotho</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574034</tariff_id>
+  <direction>Liberia</direction>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574032</tariff_id>
+  <direction>Libya</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574030</tariff_id>
+  <direction>Liechtenstein</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574028</tariff_id>
+  <direction>Lithuania</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574026</tariff_id>
+  <direction>Luxembourg</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574022</tariff_id>
+  <direction>Macao</direction>
+  <base_price>0.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574020</tariff_id>
+  <direction>Macedonia</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574018</tariff_id>
+  <direction>Madagascar</direction>
+  <base_price>0.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574016</tariff_id>
+  <direction>Malawi</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574014</tariff_id>
+  <direction>Malaysia</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574012</tariff_id>
+  <direction>Maldives</direction>
+  <base_price>1.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574010</tariff_id>
+  <direction>Mali</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574008</tariff_id>
+  <direction>Malta</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574006</tariff_id>
+  <direction>Mauritius</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574004</tariff_id>
+  <direction>Mayotte Island</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574024</tariff_id>
+  <direction>MCP</direction>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574002</tariff_id>
+  <direction>Mexico</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574000</tariff_id>
+  <direction>Moldova</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573998</tariff_id>
+  <direction>Monaco</direction>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573996</tariff_id>
+  <direction>Mongolia</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573992</tariff_id>
+  <direction>Montenegro</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573990</tariff_id>
+  <direction>Montenegro Mobile</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573988</tariff_id>
+  <direction>Montserrat</direction>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573986</tariff_id>
+  <direction>Morocco</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573984</tariff_id>
+  <direction>Mozambique</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573982</tariff_id>
+  <direction>Myanmar</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573980</tariff_id>
+  <direction>Namibia</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573978</tariff_id>
+  <direction>Nepal</direction>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573976</tariff_id>
+  <direction>Netherlands</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573974</tariff_id>
+  <direction>Netherlands Antilles</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573972</tariff_id>
+  <direction>New Caledonia</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573970</tariff_id>
+  <direction>New Zealand</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573968</tariff_id>
+  <direction>Nicaragua</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573966</tariff_id>
+  <direction>Niger</direction>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573964</tariff_id>
+  <direction>Nigeria</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573962</tariff_id>
+  <direction>Norway</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573960</tariff_id>
+  <direction>Oman</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573958</tariff_id>
+  <direction>Onwaves</direction>
+  <base_price>1.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573956</tariff_id>
+  <direction>Pakistan</direction>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573954</tariff_id>
+  <direction>Palestine</direction>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573952</tariff_id>
+  <direction>Panama</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573950</tariff_id>
+  <direction>Papua New Guinea</direction>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573948</tariff_id>
+  <direction>Paraguay</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573946</tariff_id>
+  <direction>Peru</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573944</tariff_id>
+  <direction>Philippines</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573942</tariff_id>
+  <direction>Poland</direction>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573940</tariff_id>
+  <direction>Portugal</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573938</tariff_id>
+  <direction>Puerto Rico</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573936</tariff_id>
+  <direction>Qatar</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573934</tariff_id>
+  <direction>Reunion Island</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573932</tariff_id>
+  <direction>Romania</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573930</tariff_id>
+  <direction>Russia Mobile</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573928</tariff_id>
+  <direction>Russia Mobile MTS</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573924</tariff_id>
+  <direction>Rwanda</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573922</tariff_id>
+  <direction>Samoa</direction>
+  <base_price>3.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573920</tariff_id>
+  <direction>San Marino</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573918</tariff_id>
+  <direction>Saudi Arabia</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573916</tariff_id>
+  <direction>Serbia</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573914</tariff_id>
+  <direction>Serbia Kosovo</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573912</tariff_id>
+  <direction>Seychelles</direction>
+  <base_price>3.30000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573910</tariff_id>
+  <direction>Sierra Leone</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573908</tariff_id>
+  <direction>Singapore</direction>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573906</tariff_id>
+  <direction>Slovakia</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573904</tariff_id>
+  <direction>Slovenia</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573902</tariff_id>
+  <direction>South Africa</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573900</tariff_id>
+  <direction>Spain</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573898</tariff_id>
+  <direction>Sri Lanka</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573882</tariff_id>
+  <direction>St.Kitts</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573880</tariff_id>
+  <direction>St.Lucia</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573878</tariff_id>
+  <direction>St.Vincent / Grenada</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573876</tariff_id>
+  <direction>St.Vincent / Grenada Mobile</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573874</tariff_id>
+  <direction>Surinam</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573872</tariff_id>
+  <direction>Swaziland</direction>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573870</tariff_id>
+  <direction>Sweden</direction>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573868</tariff_id>
+  <direction>Switzerland</direction>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573866</tariff_id>
+  <direction>Syria</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573864</tariff_id>
+  <direction>Taiwan</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573862</tariff_id>
+  <direction>Tajikistan</direction>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573860</tariff_id>
+  <direction>Tanzania</direction>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573858</tariff_id>
+  <direction>Thailand</direction>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573856</tariff_id>
+  <direction>Togo</direction>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573854</tariff_id>
+  <direction>Tonga Islands</direction>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573852</tariff_id>
+  <direction>Trinidad &amp;Tobago</direction>
+  <base_price>1.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573850</tariff_id>
+  <direction>Tunisia</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573848</tariff_id>
+  <direction>Turk &amp; Caicos Isl.</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573846</tariff_id>
+  <direction>Turkey</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573844</tariff_id>
+  <direction>Turkmenistan</direction>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573838</tariff_id>
+  <direction>Uganda</direction>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573836</tariff_id>
+  <direction>Ukraine</direction>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573834</tariff_id>
+  <direction>United Arab Em.</direction>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573832</tariff_id>
+  <direction>United Kingdom</direction>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573830</tariff_id>
+  <direction>Uruguay</direction>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573842</tariff_id>
+  <direction>USA</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573840</tariff_id>
+  <direction>USA Virgin Islands</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573896</tariff_id>
+  <direction>Uzbekistan</direction>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573892</tariff_id>
+  <direction>Vanuatu Republic</direction>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573890</tariff_id>
+  <direction>Vatican City</direction>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573888</tariff_id>
+  <direction>Venezuela</direction>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573886</tariff_id>
+  <direction>Vietnam</direction>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103573884</tariff_id>
+  <direction>WMS</direction>
+  <base_price>4.60000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574245</tariff_id>
+  <direction>Zambia</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+</outbound>
+<extra>
+<tariff>
+  <tariff_id>103574409</tariff_id>
+  <direction>Afghanistan</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574407</tariff_id>
+  <direction>Albania</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574405</tariff_id>
+  <direction>Algeria</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574403</tariff_id>
+  <direction>Andorra</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574401</tariff_id>
+  <direction>Angola</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574399</tariff_id>
+  <direction>Anguilla</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574397</tariff_id>
+  <direction>Antigua and Barbuda</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574395</tariff_id>
+  <direction>Argentine</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574393</tariff_id>
+  <direction>Armenia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574391</tariff_id>
+  <direction>Aruba</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574389</tariff_id>
+  <direction>Ascencion Island</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574387</tariff_id>
+  <direction>Australia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574385</tariff_id>
+  <direction>Australian External Territories</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574383</tariff_id>
+  <direction>Austria</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574379</tariff_id>
+  <direction>Azerbijan</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574377</tariff_id>
+  <direction>Bahamas</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574375</tariff_id>
+  <direction>Bahrain</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574373</tariff_id>
+  <direction>Bangladesh</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574371</tariff_id>
+  <direction>Barbados</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574369</tariff_id>
+  <direction>Belarus</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574367</tariff_id>
+  <direction>Belgium</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574365</tariff_id>
+  <direction>Belize</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574363</tariff_id>
+  <direction>Benin</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574361</tariff_id>
+  <direction>Bermuda</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574359</tariff_id>
+  <direction>Bhutan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574357</tariff_id>
+  <direction>Bolivia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574355</tariff_id>
+  <direction>Bosnia-Herzegovina</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574353</tariff_id>
+  <direction>Botswana</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574351</tariff_id>
+  <direction>Brazil</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574349</tariff_id>
+  <direction>British Virgin Isl.</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574347</tariff_id>
+  <direction>Brunei</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574345</tariff_id>
+  <direction>Bulgaria</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574343</tariff_id>
+  <direction>Burkina Faso</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574341</tariff_id>
+  <direction>Burundi</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574339</tariff_id>
+  <direction>Cambodia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574337</tariff_id>
+  <direction>Cameroon</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574335</tariff_id>
+  <direction>Canada</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574333</tariff_id>
+  <direction>Cape Verde Island</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574331</tariff_id>
+  <direction>Cayman Islands</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574329</tariff_id>
+  <direction>Central Africa</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574327</tariff_id>
+  <direction>Chad</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574325</tariff_id>
+  <direction>Chile</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574323</tariff_id>
+  <direction>Chile Easter Island</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574321</tariff_id>
+  <direction>China</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574319</tariff_id>
+  <direction>Colombia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574317</tariff_id>
+  <direction>Comoros</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574315</tariff_id>
+  <direction>Congo</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574313</tariff_id>
+  <direction>Congo Dem. Republic</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574311</tariff_id>
+  <direction>Cook Islands</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574309</tariff_id>
+  <direction>Costa Rica</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574307</tariff_id>
+  <direction>Cote Divoire</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574305</tariff_id>
+  <direction>Croatia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574303</tariff_id>
+  <direction>Cuba</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574301</tariff_id>
+  <direction>Cyprus</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574299</tariff_id>
+  <direction>Czech.Rep.</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574297</tariff_id>
+  <direction>Denmark</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574295</tariff_id>
+  <direction>Diego Garcia</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574293</tariff_id>
+  <direction>Djibouti</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574291</tariff_id>
+  <direction>Dominica</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574289</tariff_id>
+  <direction>Dominican Republic</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574287</tariff_id>
+  <direction>East Timor</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574285</tariff_id>
+  <direction>Ecuador</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574283</tariff_id>
+  <direction>Egypt</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574281</tariff_id>
+  <direction>El Salvador</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574279</tariff_id>
+  <direction>Ellipso</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574277</tariff_id>
+  <direction>Emsat</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574273</tariff_id>
+  <direction>Equatorial Guinea</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574271</tariff_id>
+  <direction>Eritrea</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574269</tariff_id>
+  <direction>Estonia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574267</tariff_id>
+  <direction>Estonia Mobile</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574263</tariff_id>
+  <direction>Ethiopia</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574261</tariff_id>
+  <direction>Faeroe Islands</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574259</tariff_id>
+  <direction>Faulkland Islands</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574257</tariff_id>
+  <direction>Fiji Islands</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574255</tariff_id>
+  <direction>Finland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574253</tariff_id>
+  <direction>France</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574249</tariff_id>
+  <direction>French Guiana</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574247</tariff_id>
+  <direction>French Polynesia</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574881</tariff_id>
+  <direction>Gabon</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574879</tariff_id>
+  <direction>Gambia</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574877</tariff_id>
+  <direction>Georgia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574875</tariff_id>
+  <direction>Germany</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574871</tariff_id>
+  <direction>Ghana</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574869</tariff_id>
+  <direction>Gibraltar</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574867</tariff_id>
+  <direction>Global Networks</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574865</tariff_id>
+  <direction>Global Networks Telenor</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574863</tariff_id>
+  <direction>Global Networks Voxbone</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574861</tariff_id>
+  <direction>Globalstar</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574859</tariff_id>
+  <direction>Greece</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574857</tariff_id>
+  <direction>Greenland</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574855</tariff_id>
+  <direction>Grenada</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574853</tariff_id>
+  <direction>Guadeloupe</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574851</tariff_id>
+  <direction>Guam</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574849</tariff_id>
+  <direction>Guatemala</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574847</tariff_id>
+  <direction>Guinea</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574845</tariff_id>
+  <direction>Guinea-Bissau</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574843</tariff_id>
+  <direction>Guyana</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574841</tariff_id>
+  <direction>Haiti</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574839</tariff_id>
+  <direction>Honduras</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574837</tariff_id>
+  <direction>HongKong</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574835</tariff_id>
+  <direction>Hungary</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574831</tariff_id>
+  <direction>Iceland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574833</tariff_id>
+  <direction>ICO</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574829</tariff_id>
+  <direction>India</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574827</tariff_id>
+  <direction>Indonesia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574825</tariff_id>
+  <direction>Inmarsat A AOR E</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574823</tariff_id>
+  <direction>Inmarsat A AOR W</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574821</tariff_id>
+  <direction>Inmarsat A IOR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574819</tariff_id>
+  <direction>Inmarsat A POR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574817</tariff_id>
+  <direction>Inmarsat A Special AOR E</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574815</tariff_id>
+  <direction>Inmarsat A Special AOR W</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574813</tariff_id>
+  <direction>Inmarsat A Special IOR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574811</tariff_id>
+  <direction>Inmarsat A Special POR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574809</tariff_id>
+  <direction>Inmarsat AERO SkyPhone AOR E</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574807</tariff_id>
+  <direction>Inmarsat AERO SkyPhone AOR W</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574805</tariff_id>
+  <direction>Inmarsat AERO SkyPhone IOR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574803</tariff_id>
+  <direction>Inmarsat AERO SkyPhone POR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574801</tariff_id>
+  <direction>Inmarsat Atlantic East  Mini M</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574799</tariff_id>
+  <direction>Inmarsat Atlantic West Mini M</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574797</tariff_id>
+  <direction>Inmarsat B AOR E</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574795</tariff_id>
+  <direction>Inmarsat B AOR E HSD</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574793</tariff_id>
+  <direction>Inmarsat B AOR W</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574791</tariff_id>
+  <direction>Inmarsat B AOR W HSD</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574789</tariff_id>
+  <direction>Inmarsat B GAN</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574787</tariff_id>
+  <direction>Inmarsat B GAN 87077</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574785</tariff_id>
+  <direction>Inmarsat B HSD</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574783</tariff_id>
+  <direction>Inmarsat B IOR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574781</tariff_id>
+  <direction>Inmarsat B POR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574779</tariff_id>
+  <direction>Inmarsat B SNAC</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574777</tariff_id>
+  <direction>Inmarsat GAN 64 kbps AOR E</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574775</tariff_id>
+  <direction>Inmarsat GAN 64 kbps AOR W</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574773</tariff_id>
+  <direction>Inmarsat GAN 64 kbps IOR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574771</tariff_id>
+  <direction>Inmarsat GAN 64 kbps POR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574769</tariff_id>
+  <direction>Inmarsat GAN 64 kbps SNAC</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574767</tariff_id>
+  <direction>Inmarsat Indian Ocean Mini M</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574765</tariff_id>
+  <direction>Inmarsat M AOR E</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574763</tariff_id>
+  <direction>Inmarsat M AOR W</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574761</tariff_id>
+  <direction>Inmarsat M IOR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574759</tariff_id>
+  <direction>Inmarsat M POR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574757</tariff_id>
+  <direction>Inmarsat M SNAC</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574755</tariff_id>
+  <direction>Inmarsat Mini M</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574753</tariff_id>
+  <direction>Inmarsat Mini M AOR E</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574751</tariff_id>
+  <direction>Inmarsat Mini M AOR W</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574749</tariff_id>
+  <direction>Inmarsat Mini M IOR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574747</tariff_id>
+  <direction>Inmarsat Mini M POR</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574745</tariff_id>
+  <direction>Inmarsat Mini M SNAC</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574743</tariff_id>
+  <direction>Inmarsat Pacific Ocean Mini M</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574741</tariff_id>
+  <direction>Inmarsat SNAC Aero</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574739</tariff_id>
+  <direction>Inmarsat SNAC-A</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574737</tariff_id>
+  <direction>Inmarsat Unified Mini M</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574735</tariff_id>
+  <direction>International Networks Aeromobile Norway</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574733</tariff_id>
+  <direction>International Networks Cubio</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574731</tariff_id>
+  <direction>International Networks DTAG</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574729</tariff_id>
+  <direction>International Networks Intermatica</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574727</tariff_id>
+  <direction>International Networks Onair</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574725</tariff_id>
+  <direction>International Networks Oration</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574723</tariff_id>
+  <direction>International Networks Seanet Maritime</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574721</tariff_id>
+  <direction>Iran</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574719</tariff_id>
+  <direction>Iraq</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574717</tariff_id>
+  <direction>Ireland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574715</tariff_id>
+  <direction>Iridium</direction>
+  <base_price>3.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574713</tariff_id>
+  <direction>Israel</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574697</tariff_id>
+  <direction>Italy</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574695</tariff_id>
+  <direction>Jamaica</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574693</tariff_id>
+  <direction>Japan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574691</tariff_id>
+  <direction>Jordan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574689</tariff_id>
+  <direction>Kazakhstan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574687</tariff_id>
+  <direction>Kazakhstan Mobile</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574685</tariff_id>
+  <direction>Kenya</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574683</tariff_id>
+  <direction>Kiribati</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574681</tariff_id>
+  <direction>Korea (North)</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574679</tariff_id>
+  <direction>Korea (South)</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574677</tariff_id>
+  <direction>Kuwait</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574675</tariff_id>
+  <direction>Kyrgyzstan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574673</tariff_id>
+  <direction>Laos</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574671</tariff_id>
+  <direction>Latvia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574665</tariff_id>
+  <direction>Lebanon</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574663</tariff_id>
+  <direction>Lesotho</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574661</tariff_id>
+  <direction>Liberia</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574659</tariff_id>
+  <direction>Libya</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574657</tariff_id>
+  <direction>Liechtenstein</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574655</tariff_id>
+  <direction>Lithuania</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574597</tariff_id>
+  <direction>Luxembourg</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574709</tariff_id>
+  <direction>Macao</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574707</tariff_id>
+  <direction>Macedonia</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574705</tariff_id>
+  <direction>Madagascar</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574703</tariff_id>
+  <direction>Malawi</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574701</tariff_id>
+  <direction>Malaysia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574699</tariff_id>
+  <direction>Maldives</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574651</tariff_id>
+  <direction>Maldives Mobile</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574649</tariff_id>
+  <direction>Mali</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574647</tariff_id>
+  <direction>Malta</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574645</tariff_id>
+  <direction>Marshall Islands</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574643</tariff_id>
+  <direction>Martinique</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574641</tariff_id>
+  <direction>Mauritania</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574639</tariff_id>
+  <direction>Mauritius</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574637</tariff_id>
+  <direction>Mayotte Island</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574711</tariff_id>
+  <direction>MCP</direction>
+  <base_price>2.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574635</tariff_id>
+  <direction>Mexico</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574633</tariff_id>
+  <direction>Micronesia</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574631</tariff_id>
+  <direction>Moldova</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574629</tariff_id>
+  <direction>Monaco</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574627</tariff_id>
+  <direction>Mongolia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574625</tariff_id>
+  <direction>Montenegro</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574623</tariff_id>
+  <direction>Montenegro Mobile</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574621</tariff_id>
+  <direction>Montserrat</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574619</tariff_id>
+  <direction>Morocco</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574617</tariff_id>
+  <direction>Mozambique</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574615</tariff_id>
+  <direction>Myanmar</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574613</tariff_id>
+  <direction>Namibia</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574611</tariff_id>
+  <direction>Nauru</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574609</tariff_id>
+  <direction>Nepal</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574607</tariff_id>
+  <direction>Netherlands</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574605</tariff_id>
+  <direction>Netherlands Antilles</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574603</tariff_id>
+  <direction>New Caledonia</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574601</tariff_id>
+  <direction>New Zealand</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574599</tariff_id>
+  <direction>Nicaragua</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574595</tariff_id>
+  <direction>Niger</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574591</tariff_id>
+  <direction>Nigeria</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574589</tariff_id>
+  <direction>Niue Isl.</direction>
+  <base_price>1.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574587</tariff_id>
+  <direction>Norway</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574585</tariff_id>
+  <direction>Oman</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574583</tariff_id>
+  <direction>Pakistan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574581</tariff_id>
+  <direction>Palaua</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574579</tariff_id>
+  <direction>Palestine</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574577</tariff_id>
+  <direction>Panama</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574575</tariff_id>
+  <direction>Papua New Guinea</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574573</tariff_id>
+  <direction>Paraguay</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574571</tariff_id>
+  <direction>Peru</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574569</tariff_id>
+  <direction>Peru Rural Codes</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574567</tariff_id>
+  <direction>Philippines</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574565</tariff_id>
+  <direction>Poland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574563</tariff_id>
+  <direction>Portugal</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574561</tariff_id>
+  <direction>Puerto Rico</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574559</tariff_id>
+  <direction>Qatar</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574557</tariff_id>
+  <direction>Reunion Island</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574555</tariff_id>
+  <direction>Romania</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574553</tariff_id>
+  <direction>Russia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574551</tariff_id>
+  <direction>Russia Mobile</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574549</tariff_id>
+  <direction>Russia Mobile MTS</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574547</tariff_id>
+  <direction>Russia Moscow</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574545</tariff_id>
+  <direction>Rwanda</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574543</tariff_id>
+  <direction>Samoa</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574541</tariff_id>
+  <direction>San Marino</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574539</tariff_id>
+  <direction>Sao Tome</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574537</tariff_id>
+  <direction>Saudi Arabia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574535</tariff_id>
+  <direction>Senegal</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574533</tariff_id>
+  <direction>Serbia</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574531</tariff_id>
+  <direction>Serbia Kosovo</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574529</tariff_id>
+  <direction>Seychelles</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574527</tariff_id>
+  <direction>Seychelles Mobile</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574525</tariff_id>
+  <direction>Sierra Leone</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574523</tariff_id>
+  <direction>Singapore</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574521</tariff_id>
+  <direction>Slovakia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574519</tariff_id>
+  <direction>Slovenia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574517</tariff_id>
+  <direction>Solomon Isles</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574515</tariff_id>
+  <direction>Somalia</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574513</tariff_id>
+  <direction>South Africa</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574511</tariff_id>
+  <direction>South Sudan</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574509</tariff_id>
+  <direction>Spain</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574507</tariff_id>
+  <direction>Sri Lanka</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574505</tariff_id>
+  <direction>St.Helena</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574503</tariff_id>
+  <direction>St.Kitts</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574501</tariff_id>
+  <direction>St.Lucia</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574499</tariff_id>
+  <direction>St.Pierre&amp;Miquel.</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574497</tariff_id>
+  <direction>St.Vincent / Grenada</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574495</tariff_id>
+  <direction>St.Vincent / Grenada Mobile</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574493</tariff_id>
+  <direction>Sudan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574491</tariff_id>
+  <direction>Surinam</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574489</tariff_id>
+  <direction>Swaziland</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574487</tariff_id>
+  <direction>Sweden</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574485</tariff_id>
+  <direction>Switzerland</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574483</tariff_id>
+  <direction>Syria</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574481</tariff_id>
+  <direction>Taiwan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574479</tariff_id>
+  <direction>Tajikistan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574477</tariff_id>
+  <direction>Tanzania</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574475</tariff_id>
+  <direction>Thailand</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574473</tariff_id>
+  <direction>Thuraya</direction>
+  <base_price>1.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574471</tariff_id>
+  <direction>Togo</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574469</tariff_id>
+  <direction>Tokelau</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574467</tariff_id>
+  <direction>Tonga Islands</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574465</tariff_id>
+  <direction>Translator E</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574463</tariff_id>
+  <direction>Translator R</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574461</tariff_id>
+  <direction>Trinidad &amp;Tobago</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574459</tariff_id>
+  <direction>Tunisia</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574457</tariff_id>
+  <direction>Turk &amp; Caicos Isl.</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574455</tariff_id>
+  <direction>Turkey</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574453</tariff_id>
+  <direction>Turkmenistan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574451</tariff_id>
+  <direction>Tuvalu</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574445</tariff_id>
+  <direction>Uganda</direction>
+  <base_price>0.15000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574443</tariff_id>
+  <direction>Ukraine</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574441</tariff_id>
+  <direction>United Arab Em.</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574439</tariff_id>
+  <direction>United Kingdom</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574435</tariff_id>
+  <direction>Uruguay</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574449</tariff_id>
+  <direction>USA</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574447</tariff_id>
+  <direction>USA Virgin Islands</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574433</tariff_id>
+  <direction>Uzbekistan</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574431</tariff_id>
+  <direction>Vanuatu Republic</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574429</tariff_id>
+  <direction>Vatican City</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574427</tariff_id>
+  <direction>Venezuela</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574425</tariff_id>
+  <direction>Vietnam</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574423</tariff_id>
+  <direction>Voicemail</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574419</tariff_id>
+  <direction>Wallis &amp; Futuna Is</direction>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574421</tariff_id>
+  <direction>WMS</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574417</tariff_id>
+  <direction>Yemen</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574415</tariff_id>
+  <direction>Zambia</direction>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>103574413</tariff_id>
+  <direction>Zimbabwe</direction>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+</extra>
+</getrates>

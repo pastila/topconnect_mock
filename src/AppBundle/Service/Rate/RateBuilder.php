@@ -15,13 +15,15 @@ class RateBuilder
 
   public function getRates (Account $account, $params)
   {
-    $service = $params['servicetype'];
+    $ratesId = $params['ratesid'] ? $params['ratesid'] :  null;
+    $service = $params['servicetype'] ? $params['servicetype'] : null;
+    $aservice = $params['aserviceid'] ? $params['aserviceid'] : null;
 
-    if ($service === 'gprs')
+    if ($ratesId === null)
     {
-      return file_get_contents($this->webDir . '/gprs.xml');
+      return file_get_contents($this->webDir . '/base.xml');
     }
 
-    return file_get_contents($this->webDir . '/voice.xml');
+    return file_get_contents($this->webDir . '/'.$service.'_'.$ratesId.'.xml');
   }
 }

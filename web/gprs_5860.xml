@@ -1,0 +1,2019 @@
+<?xml version="1.0" ?>
+<getrates>
+<tariff>
+  <tariff_id>4654032</tariff_id>
+  <mccmnc>63090</mccmnc>
+  <country>Congo Dem. Republic</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654049</tariff_id>
+  <mccmnc>60702</mccmnc>
+  <country>Gambia</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.59000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654106</tariff_id>
+  <mccmnc>40554</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654107</tariff_id>
+  <mccmnc>40552</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654105</tariff_id>
+  <mccmnc>40555</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654108</tariff_id>
+  <mccmnc>40551</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654104</tariff_id>
+  <mccmnc>40556</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654103</tariff_id>
+  <mccmnc>405511</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654102</tariff_id>
+  <mccmnc>405521</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654101</tariff_id>
+  <mccmnc>405531</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654100</tariff_id>
+  <mccmnc>40553</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654083</tariff_id>
+  <mccmnc>40416</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654073</tariff_id>
+  <mccmnc>404921</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654074</tariff_id>
+  <mccmnc>404901</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654075</tariff_id>
+  <mccmnc>404701</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654076</tariff_id>
+  <mccmnc>404491</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654077</tariff_id>
+  <mccmnc>404451</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654078</tariff_id>
+  <mccmnc>404401</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654079</tariff_id>
+  <mccmnc>404311</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654080</tariff_id>
+  <mccmnc>404101</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654081</tariff_id>
+  <mccmnc>404031</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654082</tariff_id>
+  <mccmnc>404021</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654099</tariff_id>
+  <mccmnc>40402</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654084</tariff_id>
+  <mccmnc>40498</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654085</tariff_id>
+  <mccmnc>40497</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654086</tariff_id>
+  <mccmnc>40496</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654087</tariff_id>
+  <mccmnc>40495</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654088</tariff_id>
+  <mccmnc>40494</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654089</tariff_id>
+  <mccmnc>40493</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654090</tariff_id>
+  <mccmnc>40492</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654091</tariff_id>
+  <mccmnc>40490</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654092</tariff_id>
+  <mccmnc>40470</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654093</tariff_id>
+  <mccmnc>40449</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654094</tariff_id>
+  <mccmnc>40445</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654095</tariff_id>
+  <mccmnc>40440</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654096</tariff_id>
+  <mccmnc>40431</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654097</tariff_id>
+  <mccmnc>40410</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654098</tariff_id>
+  <mccmnc>40403</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654072</tariff_id>
+  <mccmnc>404931</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654071</tariff_id>
+  <mccmnc>404941</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654070</tariff_id>
+  <mccmnc>404951</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654069</tariff_id>
+  <mccmnc>404961</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654068</tariff_id>
+  <mccmnc>404971</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654067</tariff_id>
+  <mccmnc>404981</mccmnc>
+  <country>India</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653974</tariff_id>
+  <mccmnc>27601</mccmnc>
+  <country>Albania</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653976</tariff_id>
+  <mccmnc>21303</mccmnc>
+  <country>Andorra</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654028</tariff_id>
+  <mccmnc>28010</mccmnc>
+  <country>Cyprus</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654212</tariff_id>
+  <mccmnc>25506</mccmnc>
+  <country>Ukraine</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654220</tariff_id>
+  <mccmnc>310410</mccmnc>
+  <country>USA</country>
+  <volume_in_kb>20</volume_in_kb>
+  <granularity_in_kb>20</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654219</tariff_id>
+  <mccmnc>31041</mccmnc>
+  <country>USA</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654208</tariff_id>
+  <mccmnc>28603</mccmnc>
+  <country>Turkey</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654205</tariff_id>
+  <mccmnc>520031</mccmnc>
+  <country>Thailand</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654206</tariff_id>
+  <mccmnc>52003</mccmnc>
+  <country>Thailand</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653986</tariff_id>
+  <mccmnc>40001</mccmnc>
+  <country>Azerbaijan</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653995</tariff_id>
+  <mccmnc>20620</mccmnc>
+  <country>Belgium</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654123</tariff_id>
+  <mccmnc>40101</mccmnc>
+  <country>Kazakhstan</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653994</tariff_id>
+  <mccmnc>20601</mccmnc>
+  <country>Belgium</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654009</tariff_id>
+  <mccmnc>302611</mccmnc>
+  <country>Canada</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654010</tariff_id>
+  <mccmnc>3026101</mccmnc>
+  <country>Canada</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653996</tariff_id>
+  <mccmnc>21890</mccmnc>
+  <country>Bosnia-Herzegovina</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654045</tariff_id>
+  <mccmnc>20888</mccmnc>
+  <country>France</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654048</tariff_id>
+  <mccmnc>20820</mccmnc>
+  <country>France</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654217</tariff_id>
+  <mccmnc>23410</mccmnc>
+  <country>United Kingdom</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653987</tariff_id>
+  <mccmnc>36439</mccmnc>
+  <country>Bahamas</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.59000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653977</tariff_id>
+  <mccmnc>365840</mccmnc>
+  <country>Anguilla</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653978</tariff_id>
+  <mccmnc>344920</mccmnc>
+  <country>Antigua and Barbuda</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653989</tariff_id>
+  <mccmnc>342600</mccmnc>
+  <country>Barbados</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654018</tariff_id>
+  <mccmnc>346140</mccmnc>
+  <country>Cayman Islands</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654035</tariff_id>
+  <mccmnc>366110</mccmnc>
+  <country>Dominica</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654059</tariff_id>
+  <mccmnc>352110</mccmnc>
+  <country>Grenada</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654117</tariff_id>
+  <mccmnc>338180</mccmnc>
+  <country>Caribbean Islands</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654148</tariff_id>
+  <mccmnc>35486</mccmnc>
+  <country>Montserrat (UK)</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654149</tariff_id>
+  <mccmnc>354860</mccmnc>
+  <country>Montserrat (UK)</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654184</tariff_id>
+  <mccmnc>63301</mccmnc>
+  <country>Seychelles</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>21.00000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654179</tariff_id>
+  <mccmnc>356110</mccmnc>
+  <country>St.Kitts</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654180</tariff_id>
+  <mccmnc>358110</mccmnc>
+  <country>Saint Lucia</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654181</tariff_id>
+  <mccmnc>360110</mccmnc>
+  <country>St.Vincent / Grenada</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654210</tariff_id>
+  <mccmnc>376350</mccmnc>
+  <country>Turk &amp; Caicos Isl.</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654139</tariff_id>
+  <mccmnc>61701</mccmnc>
+  <country>Mauritius</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654170</tariff_id>
+  <mccmnc>26003</mccmnc>
+  <country>Poland</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654024</tariff_id>
+  <mccmnc>46000</mccmnc>
+  <country>China</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654022</tariff_id>
+  <mccmnc>460011</mccmnc>
+  <country>China</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654023</tariff_id>
+  <mccmnc>46001</mccmnc>
+  <country>China</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654026</tariff_id>
+  <mccmnc>71203</mccmnc>
+  <country>Costa Rica</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654040</tariff_id>
+  <mccmnc>70601</mccmnc>
+  <country>El Salvador</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654060</tariff_id>
+  <mccmnc>70401</mccmnc>
+  <country>Guatemala</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654164</tariff_id>
+  <mccmnc>71403</mccmnc>
+  <country>Panama</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654166</tariff_id>
+  <mccmnc>71610</mccmnc>
+  <country>Peru</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653979</tariff_id>
+  <mccmnc>72231</mccmnc>
+  <country>Argentine</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653980</tariff_id>
+  <mccmnc>722310</mccmnc>
+  <country>Argentine</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653997</tariff_id>
+  <mccmnc>72405</mccmnc>
+  <country>Brazil</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654020</tariff_id>
+  <mccmnc>73003</mccmnc>
+  <country>Chile</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654036</tariff_id>
+  <mccmnc>37002</mccmnc>
+  <country>Dominican Republic</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654062</tariff_id>
+  <mccmnc>708001</mccmnc>
+  <country>Honduras</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654165</tariff_id>
+  <mccmnc>74402</mccmnc>
+  <country>Paraguay</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654173</tariff_id>
+  <mccmnc>330110</mccmnc>
+  <country>Puerto Rico</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654222</tariff_id>
+  <mccmnc>74810</mccmnc>
+  <country>Uruguay</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654025</tariff_id>
+  <mccmnc>732101</mccmnc>
+  <country>Colombia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654223</tariff_id>
+  <mccmnc>43405</mccmnc>
+  <country>Uzbekistan</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654134</tariff_id>
+  <mccmnc>45501</mccmnc>
+  <country>Macao</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654017</tariff_id>
+  <mccmnc>62501</mccmnc>
+  <country>Cape Verde Island</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.85000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654029</tariff_id>
+  <mccmnc>28001</mccmnc>
+  <country>Cyprus</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654137</tariff_id>
+  <mccmnc>50216</mccmnc>
+  <country>Malaysia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654119</tariff_id>
+  <mccmnc>338050</mccmnc>
+  <country>Caribbean Islands</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654118</tariff_id>
+  <mccmnc>33805</mccmnc>
+  <country>Caribbean Islands</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653982</tariff_id>
+  <mccmnc>36302</mccmnc>
+  <country>Aruba (Netherlands)</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654155</tariff_id>
+  <mccmnc>36269</mccmnc>
+  <country>Netherlands Antilles</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.45000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654163</tariff_id>
+  <mccmnc>71404</mccmnc>
+  <country>Panama</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654196</tariff_id>
+  <mccmnc>74603</mccmnc>
+  <country>Suriname</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654002</tariff_id>
+  <mccmnc>348770</mccmnc>
+  <country>British Virgin Isl.</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654001</tariff_id>
+  <mccmnc>34877</mccmnc>
+  <country>British Virgin Isl.</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653975</tariff_id>
+  <mccmnc>60302</mccmnc>
+  <country>Algeria</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>1.25000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654120</tariff_id>
+  <mccmnc>44010</mccmnc>
+  <country>Japan</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654041</tariff_id>
+  <mccmnc>24801</mccmnc>
+  <country>Estonia</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654159</tariff_id>
+  <mccmnc>62160</mccmnc>
+  <country>Nigeria</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>15.00000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654158</tariff_id>
+  <mccmnc>71021</mccmnc>
+  <country>Nicaragua</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654019</tariff_id>
+  <mccmnc>73001</mccmnc>
+  <country>Chile</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654213</tariff_id>
+  <mccmnc>424021</mccmnc>
+  <country>United Arab Em.</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.45000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654042</tariff_id>
+  <mccmnc>28801</mccmnc>
+  <country>Faeroe Islands</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654121</tariff_id>
+  <mccmnc>41601</mccmnc>
+  <country>Jordan</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.45000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654051</tariff_id>
+  <mccmnc>28201</mccmnc>
+  <country>Georgia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654055</tariff_id>
+  <mccmnc>26601</mccmnc>
+  <country>Gibraltar</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654168</tariff_id>
+  <mccmnc>51502</mccmnc>
+  <country>Philippines</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654138</tariff_id>
+  <mccmnc>27821</mccmnc>
+  <country>Malta</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654063</tariff_id>
+  <mccmnc>45403</mccmnc>
+  <country>HongKong</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654150</tariff_id>
+  <mccmnc>60401</mccmnc>
+  <country>Morocco</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>1.25000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654203</tariff_id>
+  <mccmnc>43601</mccmnc>
+  <country>Tajikistan</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654202</tariff_id>
+  <mccmnc>43602</mccmnc>
+  <country>Tajikistan</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654110</tariff_id>
+  <mccmnc>51001</mccmnc>
+  <country>Indonesia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654113</tariff_id>
+  <mccmnc>42505</mccmnc>
+  <country>Israel</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>31.00000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654216</tariff_id>
+  <mccmnc>23450</mccmnc>
+  <country>United Kingdom</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654122</tariff_id>
+  <mccmnc>40102</mccmnc>
+  <country>Kazakhstan</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654111</tariff_id>
+  <mccmnc>41840</mccmnc>
+  <country>Iraq</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>13.00000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654154</tariff_id>
+  <mccmnc>20408</mccmnc>
+  <country>Netherlands</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653992</tariff_id>
+  <mccmnc>25704</mccmnc>
+  <country>Belarus</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654127</tariff_id>
+  <mccmnc>24701</mccmnc>
+  <country>Latvia</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654050</tariff_id>
+  <mccmnc>28202</mccmnc>
+  <country>Georgia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.05000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654136</tariff_id>
+  <mccmnc>50212</mccmnc>
+  <country>Malaysia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654126</tariff_id>
+  <mccmnc>43705</mccmnc>
+  <country>Kyrgyzstan</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>2.60000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654178</tariff_id>
+  <mccmnc>25002</mccmnc>
+  <country>Russian Federation</country>
+  <volume_in_kb>20</volume_in_kb>
+  <granularity_in_kb>20</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654061</tariff_id>
+  <mccmnc>70800</mccmnc>
+  <country>Honduras</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654112</tariff_id>
+  <mccmnc>27203</mccmnc>
+  <country>Ireland</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654006</tariff_id>
+  <mccmnc>45608</mccmnc>
+  <country>Cambodia</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>1.25000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654128</tariff_id>
+  <mccmnc>41501</mccmnc>
+  <country>Lebanon</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>5.00000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654201</tariff_id>
+  <mccmnc>46697</mccmnc>
+  <country>Taiwan</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653985</tariff_id>
+  <mccmnc>23201</mccmnc>
+  <country>Austria</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654129</tariff_id>
+  <mccmnc>29505</mccmnc>
+  <country>Liechtenstein</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654004</tariff_id>
+  <mccmnc>28401</mccmnc>
+  <country>Bulgaria</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654039</tariff_id>
+  <mccmnc>60201</mccmnc>
+  <country>Egypt</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653993</tariff_id>
+  <mccmnc>20610</mccmnc>
+  <country>Belgium</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654195</tariff_id>
+  <mccmnc>41301</mccmnc>
+  <country>Sri Lanka</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654144</tariff_id>
+  <mccmnc>25902</mccmnc>
+  <country>Moldova</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654142</tariff_id>
+  <mccmnc>25905</mccmnc>
+  <country>Moldova</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654145</tariff_id>
+  <mccmnc>21210</mccmnc>
+  <country>Monaco</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.85000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654147</tariff_id>
+  <mccmnc>29703</mccmnc>
+  <country>Montenegro</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653991</tariff_id>
+  <mccmnc>25702</mccmnc>
+  <country>Belarus</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654176</tariff_id>
+  <mccmnc>250012</mccmnc>
+  <country>Russian Federation</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654177</tariff_id>
+  <mccmnc>25001</mccmnc>
+  <country>Russian Federation</country>
+  <volume_in_kb>20</volume_in_kb>
+  <granularity_in_kb>20</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654160</tariff_id>
+  <mccmnc>24202</mccmnc>
+  <country>Norway</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654066</tariff_id>
+  <mccmnc>27411</mccmnc>
+  <country>Iceland</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654161</tariff_id>
+  <mccmnc>42202</mccmnc>
+  <country>Oman</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.85000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654130</tariff_id>
+  <mccmnc>24601</mccmnc>
+  <country>Lithuania</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654125</tariff_id>
+  <mccmnc>41903</mccmnc>
+  <country>Kuwait</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653984</tariff_id>
+  <mccmnc>50502</mccmnc>
+  <country>Australia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654207</tariff_id>
+  <mccmnc>60501</mccmnc>
+  <country>Tunisia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.45000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653981</tariff_id>
+  <mccmnc>28310</mccmnc>
+  <country>Armenia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4656469</tariff_id>
+  <mccmnc>208023</mccmnc>
+  <country>France</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654046</tariff_id>
+  <mccmnc>20802</mccmnc>
+  <country>France</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654047</tariff_id>
+  <mccmnc>20801</mccmnc>
+  <country>France</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654114</tariff_id>
+  <mccmnc>42501</mccmnc>
+  <country>Israel</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654143</tariff_id>
+  <mccmnc>25901</mccmnc>
+  <country>Moldova</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654175</tariff_id>
+  <mccmnc>22610</mccmnc>
+  <country>Romania</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654193</tariff_id>
+  <mccmnc>21403</mccmnc>
+  <country>Spain</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654200</tariff_id>
+  <mccmnc>22803</mccmnc>
+  <country>Switzerland</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.05000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654215</tariff_id>
+  <mccmnc>23433</mccmnc>
+  <country>United Kingdom</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654037</tariff_id>
+  <mccmnc>74000</mccmnc>
+  <country>Ecuador</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654053</tariff_id>
+  <mccmnc>26207</mccmnc>
+  <country>Germany</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654054</tariff_id>
+  <mccmnc>26203</mccmnc>
+  <country>Germany</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654052</tariff_id>
+  <mccmnc>26208</mccmnc>
+  <country>Germany</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654169</tariff_id>
+  <mccmnc>26001</mccmnc>
+  <country>Poland</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654133</tariff_id>
+  <mccmnc>27001</mccmnc>
+  <country>Luxembourg</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654174</tariff_id>
+  <mccmnc>42701</mccmnc>
+  <country>Qatar</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654007</tariff_id>
+  <mccmnc>302721</mccmnc>
+  <country>Canada</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654008</tariff_id>
+  <mccmnc>3027201</mccmnc>
+  <country>Canada</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654013</tariff_id>
+  <mccmnc>30272</mccmnc>
+  <country>Canada</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654016</tariff_id>
+  <mccmnc>302720</mccmnc>
+  <country>Canada</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654190</tariff_id>
+  <mccmnc>29340</mccmnc>
+  <country>Slovenia</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654187</tariff_id>
+  <mccmnc>52501</mccmnc>
+  <country>Singapore</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654186</tariff_id>
+  <mccmnc>52502</mccmnc>
+  <country>Singapore</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654185</tariff_id>
+  <mccmnc>525011</mccmnc>
+  <country>Singapore</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654124</tariff_id>
+  <mccmnc>45005</mccmnc>
+  <country>Korea (South)</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654167</tariff_id>
+  <mccmnc>51503</mccmnc>
+  <country>Philippines</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654005</tariff_id>
+  <mccmnc>45602</mccmnc>
+  <country>Cambodia</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>1.25000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654064</tariff_id>
+  <mccmnc>45406</mccmnc>
+  <country>HongKong</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654044</tariff_id>
+  <mccmnc>24491</mccmnc>
+  <country>Finland</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654043</tariff_id>
+  <mccmnc>24436</mccmnc>
+  <country>Finland</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654152</tariff_id>
+  <mccmnc>42902</mccmnc>
+  <country>Nepal</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>5.00000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654182</tariff_id>
+  <mccmnc>42001</mccmnc>
+  <country>Saudi Arabia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654199</tariff_id>
+  <mccmnc>22802</mccmnc>
+  <country>Switzerland</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654132</tariff_id>
+  <mccmnc>27077</mccmnc>
+  <country>Luxembourg</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654140</tariff_id>
+  <mccmnc>334020</mccmnc>
+  <country>Mexico</country>
+  <volume_in_kb>20</volume_in_kb>
+  <granularity_in_kb>20</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654141</tariff_id>
+  <mccmnc>33402</mccmnc>
+  <country>Mexico</country>
+  <volume_in_kb>20</volume_in_kb>
+  <granularity_in_kb>20</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654058</tariff_id>
+  <mccmnc>29001</mccmnc>
+  <country>Greenland</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654156</tariff_id>
+  <mccmnc>530051</mccmnc>
+  <country>New Zealand</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654157</tariff_id>
+  <mccmnc>53005</mccmnc>
+  <country>New Zealand</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654194</tariff_id>
+  <mccmnc>21407</mccmnc>
+  <country>Spain</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654221</tariff_id>
+  <mccmnc>74807</mccmnc>
+  <country>Uruguay</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654021</tariff_id>
+  <mccmnc>73002</mccmnc>
+  <country>Chile</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654031</tariff_id>
+  <mccmnc>23002</mccmnc>
+  <country>Czech.Rep.</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654188</tariff_id>
+  <mccmnc>23106</mccmnc>
+  <country>Slovakia</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654183</tariff_id>
+  <mccmnc>22003</mccmnc>
+  <country>Serbia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654151</tariff_id>
+  <mccmnc>41406</mccmnc>
+  <country>Myanmar</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>13.00000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654033</tariff_id>
+  <mccmnc>23866</mccmnc>
+  <country>Denmark</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654034</tariff_id>
+  <mccmnc>23820</mccmnc>
+  <country>Denmark</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654197</tariff_id>
+  <mccmnc>24001</mccmnc>
+  <country>Sweden</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654198</tariff_id>
+  <mccmnc>24005</mccmnc>
+  <country>Sweden</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654191</tariff_id>
+  <mccmnc>65502</mccmnc>
+  <country>South Africa</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654109</tariff_id>
+  <mccmnc>51010</mccmnc>
+  <country>Indonesia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653983</tariff_id>
+  <mccmnc>50501</mccmnc>
+  <country>Australia</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654012</tariff_id>
+  <mccmnc>3022201</mccmnc>
+  <country>Canada</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654014</tariff_id>
+  <mccmnc>302220</mccmnc>
+  <country>Canada</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654015</tariff_id>
+  <mccmnc>30222</mccmnc>
+  <country>Canada</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654011</tariff_id>
+  <mccmnc>302221</mccmnc>
+  <country>Canada</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654116</tariff_id>
+  <mccmnc>22201</mccmnc>
+  <country>Italy</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654000</tariff_id>
+  <mccmnc>72404</mccmnc>
+  <country>Brazil</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653999</tariff_id>
+  <mccmnc>72402</mccmnc>
+  <country>Brazil</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653998</tariff_id>
+  <mccmnc>72403</mccmnc>
+  <country>Brazil</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654172</tariff_id>
+  <mccmnc>26806</mccmnc>
+  <country>Portugal</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654214</tariff_id>
+  <mccmnc>23430</mccmnc>
+  <country>United Kingdom</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654218</tariff_id>
+  <mccmnc>310260</mccmnc>
+  <country>USA</country>
+  <volume_in_kb>20</volume_in_kb>
+  <granularity_in_kb>20</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654209</tariff_id>
+  <mccmnc>28601</mccmnc>
+  <country>Turkey</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654189</tariff_id>
+  <mccmnc>29370</mccmnc>
+  <country>Slovenia</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654162</tariff_id>
+  <mccmnc>41003</mccmnc>
+  <country>Pakistan</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>13.00000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654211</tariff_id>
+  <mccmnc>25501</mccmnc>
+  <country>Ukraine</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654146</tariff_id>
+  <mccmnc>21201</mccmnc>
+  <country>Monaco</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653990</tariff_id>
+  <mccmnc>25701</mccmnc>
+  <country>Belarus</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654224</tariff_id>
+  <mccmnc>45204</mccmnc>
+  <country>Vietnam</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654135</tariff_id>
+  <mccmnc>29403</mccmnc>
+  <country>Macedonia</country>
+  <volume_in_kb>30</volume_in_kb>
+  <granularity_in_kb>30</granularity_in_kb>
+  <gprs_base_price>2.60000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654027</tariff_id>
+  <mccmnc>21910</mccmnc>
+  <country>Croatia</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4653988</tariff_id>
+  <mccmnc>42604</mccmnc>
+  <country>Bahrain</country>
+  <volume_in_kb>100</volume_in_kb>
+  <granularity_in_kb>100</granularity_in_kb>
+  <gprs_base_price>0.45000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654003</tariff_id>
+  <mccmnc>28403</mccmnc>
+  <country>Bulgaria</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654192</tariff_id>
+  <mccmnc>65501</mccmnc>
+  <country>South Africa</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654204</tariff_id>
+  <mccmnc>64004</mccmnc>
+  <country>Tanzania</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.85000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654030</tariff_id>
+  <mccmnc>23003</mccmnc>
+  <country>Czech.Rep.</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654038</tariff_id>
+  <mccmnc>60202</mccmnc>
+  <country>Egypt</country>
+  <volume_in_kb>10</volume_in_kb>
+  <granularity_in_kb>10</granularity_in_kb>
+  <gprs_base_price>0.22000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654057</tariff_id>
+  <mccmnc>20205</mccmnc>
+  <country>Greece</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654065</tariff_id>
+  <mccmnc>21670</mccmnc>
+  <country>Hungary</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654153</tariff_id>
+  <mccmnc>20404</mccmnc>
+  <country>Netherlands</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654171</tariff_id>
+  <mccmnc>26801</mccmnc>
+  <country>Portugal</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654131</tariff_id>
+  <mccmnc>27099</mccmnc>
+  <country>Luxembourg</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654115</tariff_id>
+  <mccmnc>22288</mccmnc>
+  <country>Italy</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+<tariff>
+  <tariff_id>4654056</tariff_id>
+  <mccmnc>20210</mccmnc>
+  <country>Greece</country>
+  <volume_in_kb>1</volume_in_kb>
+  <granularity_in_kb>1</granularity_in_kb>
+  <gprs_base_price>0.04000 EUR</gprs_base_price>
+</tariff>
+</getrates>
