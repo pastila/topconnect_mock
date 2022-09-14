@@ -29,6 +29,7 @@ class ApiRequestType extends AbstractType
           'navstat3' => 'navstat3',
           'navcdr3' => 'navcdr3',
           'discount' => 'discount',
+          'getrates' => 'getrates',
         ],
       ])
       ->add('uname', 'Symfony\Component\Form\Extension\Core\Type\TextType', [
