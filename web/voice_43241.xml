@@ -1,0 +1,4621 @@
+<?xml version="1.0" ?>
+<getrates>
+<outbound>
+<tariff>
+  <tariff_id>105566070</tariff_id>
+  <location_A>Afghanistan</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566069</tariff_id>
+  <location_A>Afghanistan</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566068</tariff_id>
+  <location_A>Albania</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566067</tariff_id>
+  <location_A>Albania</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566066</tariff_id>
+  <location_A>Algeria</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566065</tariff_id>
+  <location_A>Algeria</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566064</tariff_id>
+  <location_A>Andorra</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566063</tariff_id>
+  <location_A>Andorra</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566062</tariff_id>
+  <location_A>Angola</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566061</tariff_id>
+  <location_A>Angola</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566059</tariff_id>
+  <location_A>Angola</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566060</tariff_id>
+  <location_A>Angola</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566058</tariff_id>
+  <location_A>Anguilla</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566057</tariff_id>
+  <location_A>Anguilla</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566056</tariff_id>
+  <location_A>Anguilla</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566055</tariff_id>
+  <location_A>Anguilla</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566054</tariff_id>
+  <location_A>Antigua and Barbuda</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566052</tariff_id>
+  <location_A>Antigua and Barbuda</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566053</tariff_id>
+  <location_A>Antigua and Barbuda</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566051</tariff_id>
+  <location_A>Antigua and Barbuda</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566050</tariff_id>
+  <location_A>Argentine</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566049</tariff_id>
+  <location_A>Argentine</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566047</tariff_id>
+  <location_A>Argentine</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566048</tariff_id>
+  <location_A>Argentine</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566046</tariff_id>
+  <location_A>Armenia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566045</tariff_id>
+  <location_A>Armenia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566044</tariff_id>
+  <location_A>Armenia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566043</tariff_id>
+  <location_A>Armenia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566042</tariff_id>
+  <location_A>Aruba</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566041</tariff_id>
+  <location_A>Aruba</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566040</tariff_id>
+  <location_A>Aruba</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566039</tariff_id>
+  <location_A>Aruba</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566038</tariff_id>
+  <location_A>Australia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566037</tariff_id>
+  <location_A>Australia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566035</tariff_id>
+  <location_A>Australia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566036</tariff_id>
+  <location_A>Australia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566034</tariff_id>
+  <location_A>Austria</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566033</tariff_id>
+  <location_A>Austria</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566032</tariff_id>
+  <location_A>Austria</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566031</tariff_id>
+  <location_A>Austria</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566030</tariff_id>
+  <location_A>Azerbijan</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566029</tariff_id>
+  <location_A>Azerbijan</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566028</tariff_id>
+  <location_A>Azerbijan</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566027</tariff_id>
+  <location_A>Azerbijan</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566025</tariff_id>
+  <location_A>Bahamas</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566026</tariff_id>
+  <location_A>Bahamas</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566023</tariff_id>
+  <location_A>Bahrain</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566024</tariff_id>
+  <location_A>Bahrain</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566022</tariff_id>
+  <location_A>Bahrain</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566021</tariff_id>
+  <location_A>Bahrain</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566020</tariff_id>
+  <location_A>Bangladesh</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566019</tariff_id>
+  <location_A>Bangladesh</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566018</tariff_id>
+  <location_A>Bangladesh</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566017</tariff_id>
+  <location_A>Bangladesh</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566016</tariff_id>
+  <location_A>Barbados</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566013</tariff_id>
+  <location_A>Barbados</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566014</tariff_id>
+  <location_A>Barbados</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566015</tariff_id>
+  <location_A>Barbados</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566012</tariff_id>
+  <location_A>Belarus</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566011</tariff_id>
+  <location_A>Belarus</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566010</tariff_id>
+  <location_A>Belarus</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566009</tariff_id>
+  <location_A>Belarus</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566006</tariff_id>
+  <location_A>Belgium</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566007</tariff_id>
+  <location_A>Belgium</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566008</tariff_id>
+  <location_A>Belgium</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566005</tariff_id>
+  <location_A>Belgium</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566004</tariff_id>
+  <location_A>Bermuda</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566001</tariff_id>
+  <location_A>Bermuda</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566002</tariff_id>
+  <location_A>Bermuda</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566003</tariff_id>
+  <location_A>Bermuda</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105566000</tariff_id>
+  <location_A>Bosnia-Herzegovina</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565999</tariff_id>
+  <location_A>Bosnia-Herzegovina</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565998</tariff_id>
+  <location_A>Bosnia-Herzegovina</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565997</tariff_id>
+  <location_A>Bosnia-Herzegovina</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565996</tariff_id>
+  <location_A>Brazil</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565995</tariff_id>
+  <location_A>Brazil</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565994</tariff_id>
+  <location_A>Brazil</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565993</tariff_id>
+  <location_A>Brazil</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565992</tariff_id>
+  <location_A>British Virgin Isl.</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565991</tariff_id>
+  <location_A>British Virgin Isl.</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565989</tariff_id>
+  <location_A>British Virgin Isl.</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565990</tariff_id>
+  <location_A>British Virgin Isl.</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565988</tariff_id>
+  <location_A>Brunei</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565987</tariff_id>
+  <location_A>Brunei</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565986</tariff_id>
+  <location_A>Bulgaria</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565985</tariff_id>
+  <location_A>Bulgaria</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565984</tariff_id>
+  <location_A>Bulgaria</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565983</tariff_id>
+  <location_A>Bulgaria</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565982</tariff_id>
+  <location_A>Burkina Faso</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565981</tariff_id>
+  <location_A>Burundi</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565980</tariff_id>
+  <location_A>Cambodia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565979</tariff_id>
+  <location_A>Cambodia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565978</tariff_id>
+  <location_A>Cambodia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565977</tariff_id>
+  <location_A>Cambodia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565976</tariff_id>
+  <location_A>Canada</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565975</tariff_id>
+  <location_A>Canada</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565974</tariff_id>
+  <location_A>Cape Verde Island</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565973</tariff_id>
+  <location_A>Cape Verde Island</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565972</tariff_id>
+  <location_A>Cape Verde Island</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565971</tariff_id>
+  <location_A>Cape Verde Island</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565970</tariff_id>
+  <location_A>Cayman Islands</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565969</tariff_id>
+  <location_A>Cayman Islands</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565967</tariff_id>
+  <location_A>Cayman Islands</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565968</tariff_id>
+  <location_A>Cayman Islands</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565966</tariff_id>
+  <location_A>Central Africa</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565964</tariff_id>
+  <location_A>Chile</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565963</tariff_id>
+  <location_A>Chile</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565965</tariff_id>
+  <location_A>Chile</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565962</tariff_id>
+  <location_A>Chile</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565961</tariff_id>
+  <location_A>China</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565959</tariff_id>
+  <location_A>China</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565960</tariff_id>
+  <location_A>China</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565958</tariff_id>
+  <location_A>China</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565957</tariff_id>
+  <location_A>Colombia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565954</tariff_id>
+  <location_A>Colombia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565955</tariff_id>
+  <location_A>Colombia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565956</tariff_id>
+  <location_A>Colombia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565952</tariff_id>
+  <location_A>Congo Dem. Republic</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565953</tariff_id>
+  <location_A>Congo Dem. Republic</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565951</tariff_id>
+  <location_A>Cook Islands</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565950</tariff_id>
+  <location_A>Costa Rica</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565949</tariff_id>
+  <location_A>Costa Rica</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565948</tariff_id>
+  <location_A>Costa Rica</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565947</tariff_id>
+  <location_A>Costa Rica</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565946</tariff_id>
+  <location_A>Cote Divoire</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565944</tariff_id>
+  <location_A>Croatia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565945</tariff_id>
+  <location_A>Croatia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565943</tariff_id>
+  <location_A>Croatia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565942</tariff_id>
+  <location_A>Croatia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565941</tariff_id>
+  <location_A>Cuba</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565939</tariff_id>
+  <location_A>Cyprus</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565938</tariff_id>
+  <location_A>Cyprus</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565940</tariff_id>
+  <location_A>Cyprus</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565937</tariff_id>
+  <location_A>Cyprus</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565934</tariff_id>
+  <location_A>Czech.Rep.</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565935</tariff_id>
+  <location_A>Czech.Rep.</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565936</tariff_id>
+  <location_A>Czech.Rep.</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565933</tariff_id>
+  <location_A>Czech.Rep.</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565932</tariff_id>
+  <location_A>Denmark</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565931</tariff_id>
+  <location_A>Denmark</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565930</tariff_id>
+  <location_A>Denmark</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565929</tariff_id>
+  <location_A>Denmark</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565928</tariff_id>
+  <location_A>Dominica</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565927</tariff_id>
+  <location_A>Dominica</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565925</tariff_id>
+  <location_A>Dominica</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565926</tariff_id>
+  <location_A>Dominica</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565924</tariff_id>
+  <location_A>Dominican Republic</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565922</tariff_id>
+  <location_A>Dominican Republic</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565923</tariff_id>
+  <location_A>Dominican Republic</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565921</tariff_id>
+  <location_A>Dominican Republic</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565920</tariff_id>
+  <location_A>Ecuador</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565919</tariff_id>
+  <location_A>Ecuador</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565918</tariff_id>
+  <location_A>Egypt</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565917</tariff_id>
+  <location_A>Egypt</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565916</tariff_id>
+  <location_A>Egypt</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565915</tariff_id>
+  <location_A>Egypt</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565914</tariff_id>
+  <location_A>El Salvador</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565913</tariff_id>
+  <location_A>El Salvador</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565911</tariff_id>
+  <location_A>El Salvador</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565912</tariff_id>
+  <location_A>El Salvador</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565910</tariff_id>
+  <location_A>Equatorial Guinea</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565909</tariff_id>
+  <location_A>Estonia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565907</tariff_id>
+  <location_A>Estonia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565908</tariff_id>
+  <location_A>Estonia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565906</tariff_id>
+  <location_A>Estonia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565905</tariff_id>
+  <location_A>Faeroe Islands</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565904</tariff_id>
+  <location_A>Faeroe Islands</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565903</tariff_id>
+  <location_A>Faeroe Islands</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565902</tariff_id>
+  <location_A>Faeroe Islands</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565901</tariff_id>
+  <location_A>Finland</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565900</tariff_id>
+  <location_A>Finland</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565898</tariff_id>
+  <location_A>Finland</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565899</tariff_id>
+  <location_A>Finland</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565897</tariff_id>
+  <location_A>France</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565895</tariff_id>
+  <location_A>France</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565896</tariff_id>
+  <location_A>France</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565894</tariff_id>
+  <location_A>France</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565893</tariff_id>
+  <location_A>Gambia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565892</tariff_id>
+  <location_A>Gambia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565891</tariff_id>
+  <location_A>Georgia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565890</tariff_id>
+  <location_A>Georgia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565889</tariff_id>
+  <location_A>Georgia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565888</tariff_id>
+  <location_A>Georgia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565886</tariff_id>
+  <location_A>Germany</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565887</tariff_id>
+  <location_A>Germany</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565885</tariff_id>
+  <location_A>Germany</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565884</tariff_id>
+  <location_A>Germany</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565883</tariff_id>
+  <location_A>Ghana</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565882</tariff_id>
+  <location_A>Ghana</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565881</tariff_id>
+  <location_A>Ghana</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565880</tariff_id>
+  <location_A>Ghana</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565879</tariff_id>
+  <location_A>Gibraltar</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565878</tariff_id>
+  <location_A>Gibraltar</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565877</tariff_id>
+  <location_A>Gibraltar</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565876</tariff_id>
+  <location_A>Gibraltar</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565874</tariff_id>
+  <location_A>Greece</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565875</tariff_id>
+  <location_A>Greece</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565873</tariff_id>
+  <location_A>Greece</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565872</tariff_id>
+  <location_A>Greece</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565871</tariff_id>
+  <location_A>Greenland</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565870</tariff_id>
+  <location_A>Greenland</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565869</tariff_id>
+  <location_A>Greenland</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565868</tariff_id>
+  <location_A>Greenland</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565867</tariff_id>
+  <location_A>Grenada</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565866</tariff_id>
+  <location_A>Grenada</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565865</tariff_id>
+  <location_A>Grenada</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565864</tariff_id>
+  <location_A>Grenada</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565863</tariff_id>
+  <location_A>Guadeloupe</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565862</tariff_id>
+  <location_A>Guadeloupe</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565861</tariff_id>
+  <location_A>Guadeloupe</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565860</tariff_id>
+  <location_A>Guatemala</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565859</tariff_id>
+  <location_A>Guatemala</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565858</tariff_id>
+  <location_A>Guatemala</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565857</tariff_id>
+  <location_A>Guatemala</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565856</tariff_id>
+  <location_A>Guinea-Bissau</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565855</tariff_id>
+  <location_A>Guyana</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565854</tariff_id>
+  <location_A>Guyana</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565853</tariff_id>
+  <location_A>Guyana</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565852</tariff_id>
+  <location_A>Haiti</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565851</tariff_id>
+  <location_A>Haiti</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565850</tariff_id>
+  <location_A>Honduras</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565849</tariff_id>
+  <location_A>Honduras</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565848</tariff_id>
+  <location_A>Honduras</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565847</tariff_id>
+  <location_A>Honduras</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565846</tariff_id>
+  <location_A>HongKong</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565843</tariff_id>
+  <location_A>HongKong</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565844</tariff_id>
+  <location_A>HongKong</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565845</tariff_id>
+  <location_A>HongKong</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565840</tariff_id>
+  <location_A>Hungary</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565841</tariff_id>
+  <location_A>Hungary</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565842</tariff_id>
+  <location_A>Hungary</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565839</tariff_id>
+  <location_A>Hungary</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565837</tariff_id>
+  <location_A>Iceland</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565838</tariff_id>
+  <location_A>Iceland</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565836</tariff_id>
+  <location_A>Iceland</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565835</tariff_id>
+  <location_A>Iceland</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565834</tariff_id>
+  <location_A>India</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565833</tariff_id>
+  <location_A>India</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565831</tariff_id>
+  <location_A>India</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565832</tariff_id>
+  <location_A>India</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565830</tariff_id>
+  <location_A>India Tata</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565828</tariff_id>
+  <location_A>India Tata</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565829</tariff_id>
+  <location_A>India Tata</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565827</tariff_id>
+  <location_A>India Tata</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565825</tariff_id>
+  <location_A>Indonesia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565826</tariff_id>
+  <location_A>Indonesia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565824</tariff_id>
+  <location_A>Indonesia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565823</tariff_id>
+  <location_A>Indonesia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565822</tariff_id>
+  <location_A>Iraq</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565821</tariff_id>
+  <location_A>Iraq</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565820</tariff_id>
+  <location_A>Ireland</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565819</tariff_id>
+  <location_A>Ireland</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565818</tariff_id>
+  <location_A>Ireland</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565817</tariff_id>
+  <location_A>Ireland</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565816</tariff_id>
+  <location_A>Israel</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565813</tariff_id>
+  <location_A>Israel</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565814</tariff_id>
+  <location_A>Israel</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565815</tariff_id>
+  <location_A>Israel</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565810</tariff_id>
+  <location_A>Italy</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565811</tariff_id>
+  <location_A>Italy</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565812</tariff_id>
+  <location_A>Italy</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565809</tariff_id>
+  <location_A>Italy</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565808</tariff_id>
+  <location_A>Jamaica</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565807</tariff_id>
+  <location_A>Jamaica</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565806</tariff_id>
+  <location_A>Jamaica</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565805</tariff_id>
+  <location_A>Jamaica</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565804</tariff_id>
+  <location_A>Japan</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565803</tariff_id>
+  <location_A>Japan</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565801</tariff_id>
+  <location_A>Japan</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565802</tariff_id>
+  <location_A>Japan</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565800</tariff_id>
+  <location_A>Jordan</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565798</tariff_id>
+  <location_A>Jordan</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565799</tariff_id>
+  <location_A>Jordan</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565797</tariff_id>
+  <location_A>Jordan</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565796</tariff_id>
+  <location_A>Kazakhstan</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565795</tariff_id>
+  <location_A>Kazakhstan</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565794</tariff_id>
+  <location_A>Kazakhstan</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565793</tariff_id>
+  <location_A>Kazakhstan</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565792</tariff_id>
+  <location_A>Kenya</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565791</tariff_id>
+  <location_A>Kenya</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565790</tariff_id>
+  <location_A>Kenya</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565789</tariff_id>
+  <location_A>Kenya</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565788</tariff_id>
+  <location_A>Korea (South)</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565787</tariff_id>
+  <location_A>Korea (South)</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565785</tariff_id>
+  <location_A>Korea (South)</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565786</tariff_id>
+  <location_A>Korea (South)</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565784</tariff_id>
+  <location_A>Kuwait</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565783</tariff_id>
+  <location_A>Kuwait</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565782</tariff_id>
+  <location_A>Kuwait</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565781</tariff_id>
+  <location_A>Kuwait</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565780</tariff_id>
+  <location_A>Kyrgyzstan</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565778</tariff_id>
+  <location_A>Kyrgyzstan</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565779</tariff_id>
+  <location_A>Kyrgyzstan</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565777</tariff_id>
+  <location_A>Kyrgyzstan</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565776</tariff_id>
+  <location_A>Latvia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565775</tariff_id>
+  <location_A>Latvia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565774</tariff_id>
+  <location_A>Latvia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565773</tariff_id>
+  <location_A>Latvia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565772</tariff_id>
+  <location_A>Lebanon</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565771</tariff_id>
+  <location_A>Lebanon</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565769</tariff_id>
+  <location_A>Lebanon</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565770</tariff_id>
+  <location_A>Lebanon</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565717</tariff_id>
+  <location_A>Liechtenstein</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565719</tariff_id>
+  <location_A>Liechtenstein</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565718</tariff_id>
+  <location_A>Liechtenstein</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565720</tariff_id>
+  <location_A>Liechtenstein</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565714</tariff_id>
+  <location_A>Lithuania</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565713</tariff_id>
+  <location_A>Lithuania</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565715</tariff_id>
+  <location_A>Lithuania</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565716</tariff_id>
+  <location_A>Lithuania</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565768</tariff_id>
+  <location_A>Luxembourg</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565767</tariff_id>
+  <location_A>Luxembourg</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565766</tariff_id>
+  <location_A>Luxembourg</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565765</tariff_id>
+  <location_A>Luxembourg</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565762</tariff_id>
+  <location_A>Macao</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565763</tariff_id>
+  <location_A>Macao</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565760</tariff_id>
+  <location_A>Macedonia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565761</tariff_id>
+  <location_A>Macedonia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565759</tariff_id>
+  <location_A>Madagascar</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565756</tariff_id>
+  <location_A>Malaysia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565758</tariff_id>
+  <location_A>Malaysia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565757</tariff_id>
+  <location_A>Malaysia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565755</tariff_id>
+  <location_A>Malaysia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565752</tariff_id>
+  <location_A>Malta</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565751</tariff_id>
+  <location_A>Malta</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565753</tariff_id>
+  <location_A>Malta</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565754</tariff_id>
+  <location_A>Malta</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565747</tariff_id>
+  <location_A>Mauritius</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565750</tariff_id>
+  <location_A>Mauritius</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565749</tariff_id>
+  <location_A>Mauritius</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565748</tariff_id>
+  <location_A>Mauritius</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565746</tariff_id>
+  <location_A>Mayotte Island</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565744</tariff_id>
+  <location_A>Mayotte Island</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565745</tariff_id>
+  <location_A>Mayotte Island</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565764</tariff_id>
+  <location_A>MCP</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565743</tariff_id>
+  <location_A>Mexico</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565740</tariff_id>
+  <location_A>Mexico</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565742</tariff_id>
+  <location_A>Mexico</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565741</tariff_id>
+  <location_A>Mexico</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565739</tariff_id>
+  <location_A>Moldova</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565738</tariff_id>
+  <location_A>Moldova</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565737</tariff_id>
+  <location_A>Moldova</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565736</tariff_id>
+  <location_A>Moldova</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565735</tariff_id>
+  <location_A>Monaco</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565734</tariff_id>
+  <location_A>Monaco</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565733</tariff_id>
+  <location_A>Monaco</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565732</tariff_id>
+  <location_A>Monaco</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565731</tariff_id>
+  <location_A>Mongolia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565728</tariff_id>
+  <location_A>Mongolia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565730</tariff_id>
+  <location_A>Mongolia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565729</tariff_id>
+  <location_A>Mongolia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565727</tariff_id>
+  <location_A>Montenegro</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565726</tariff_id>
+  <location_A>Montenegro</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565725</tariff_id>
+  <location_A>Montenegro Mobile</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565724</tariff_id>
+  <location_A>Montenegro Mobile</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565723</tariff_id>
+  <location_A>Montserrat</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565722</tariff_id>
+  <location_A>Montserrat</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565721</tariff_id>
+  <location_A>Morocco</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565712</tariff_id>
+  <location_A>Morocco</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565711</tariff_id>
+  <location_A>Mozambique</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565710</tariff_id>
+  <location_A>Mozambique</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565709</tariff_id>
+  <location_A>Myanmar</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565708</tariff_id>
+  <location_A>Myanmar</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565707</tariff_id>
+  <location_A>Myanmar</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565706</tariff_id>
+  <location_A>Myanmar</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565705</tariff_id>
+  <location_A>Nepal</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565704</tariff_id>
+  <location_A>Nepal</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565702</tariff_id>
+  <location_A>Netherlands</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565703</tariff_id>
+  <location_A>Netherlands</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565701</tariff_id>
+  <location_A>Netherlands</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565700</tariff_id>
+  <location_A>Netherlands</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565699</tariff_id>
+  <location_A>Netherlands Antilles</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565698</tariff_id>
+  <location_A>Netherlands Antilles</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565697</tariff_id>
+  <location_A>Netherlands Antilles</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565696</tariff_id>
+  <location_A>Netherlands Antilles</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565694</tariff_id>
+  <location_A>New Caledonia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565695</tariff_id>
+  <location_A>New Caledonia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565693</tariff_id>
+  <location_A>New Caledonia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565692</tariff_id>
+  <location_A>New Zealand</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565691</tariff_id>
+  <location_A>New Zealand</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565690</tariff_id>
+  <location_A>New Zealand</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565689</tariff_id>
+  <location_A>New Zealand</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565688</tariff_id>
+  <location_A>Nicaragua</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565687</tariff_id>
+  <location_A>Nicaragua</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565686</tariff_id>
+  <location_A>Nigeria</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565685</tariff_id>
+  <location_A>Nigeria</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565684</tariff_id>
+  <location_A>Norway</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565683</tariff_id>
+  <location_A>Norway</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565682</tariff_id>
+  <location_A>Norway</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565681</tariff_id>
+  <location_A>Norway</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565680</tariff_id>
+  <location_A>Oman</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565677</tariff_id>
+  <location_A>Oman</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565678</tariff_id>
+  <location_A>Oman</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565679</tariff_id>
+  <location_A>Oman</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565675</tariff_id>
+  <location_A>Pakistan</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565676</tariff_id>
+  <location_A>Pakistan</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565674</tariff_id>
+  <location_A>Palestine</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565673</tariff_id>
+  <location_A>Palestine</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565671</tariff_id>
+  <location_A>Panama</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565672</tariff_id>
+  <location_A>Panama</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565670</tariff_id>
+  <location_A>Panama</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565669</tariff_id>
+  <location_A>Panama</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565668</tariff_id>
+  <location_A>Papua New Guinea</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565667</tariff_id>
+  <location_A>Paraguay</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565666</tariff_id>
+  <location_A>Paraguay</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565665</tariff_id>
+  <location_A>Paraguay</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565664</tariff_id>
+  <location_A>Paraguay</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565661</tariff_id>
+  <location_A>Peru</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565662</tariff_id>
+  <location_A>Peru</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565663</tariff_id>
+  <location_A>Peru</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565660</tariff_id>
+  <location_A>Peru</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565657</tariff_id>
+  <location_A>Philippines</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565658</tariff_id>
+  <location_A>Philippines</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565659</tariff_id>
+  <location_A>Philippines</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565656</tariff_id>
+  <location_A>Philippines</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565643</tariff_id>
+  <location_A>Poland</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565644</tariff_id>
+  <location_A>Poland</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565655</tariff_id>
+  <location_A>Poland</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565642</tariff_id>
+  <location_A>Poland</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565641</tariff_id>
+  <location_A>Portugal</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565640</tariff_id>
+  <location_A>Portugal</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565639</tariff_id>
+  <location_A>Portugal</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565638</tariff_id>
+  <location_A>Portugal</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565637</tariff_id>
+  <location_A>Puerto Rico</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565636</tariff_id>
+  <location_A>Puerto Rico</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565635</tariff_id>
+  <location_A>Puerto Rico</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565634</tariff_id>
+  <location_A>Puerto Rico</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565633</tariff_id>
+  <location_A>Qatar</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565630</tariff_id>
+  <location_A>Qatar</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565631</tariff_id>
+  <location_A>Qatar</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565632</tariff_id>
+  <location_A>Qatar</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565629</tariff_id>
+  <location_A>Reunion Island</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565627</tariff_id>
+  <location_A>Reunion Island</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565628</tariff_id>
+  <location_A>Reunion Island</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565626</tariff_id>
+  <location_A>Romania</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565623</tariff_id>
+  <location_A>Romania</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565624</tariff_id>
+  <location_A>Romania</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565625</tariff_id>
+  <location_A>Romania</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565622</tariff_id>
+  <location_A>Russia Mobile</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565621</tariff_id>
+  <location_A>Russia Mobile</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565619</tariff_id>
+  <location_A>Russia Mobile</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565620</tariff_id>
+  <location_A>Russia Mobile</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565618</tariff_id>
+  <location_A>Russia Mobile MTS</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565617</tariff_id>
+  <location_A>Russia Mobile MTS</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565616</tariff_id>
+  <location_A>Russia Mobile MTS</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565615</tariff_id>
+  <location_A>Russia Mobile MTS</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565612</tariff_id>
+  <location_A>San Marino</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565613</tariff_id>
+  <location_A>San Marino</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565614</tariff_id>
+  <location_A>San Marino</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565611</tariff_id>
+  <location_A>San Marino</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565608</tariff_id>
+  <location_A>Saudi Arabia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565609</tariff_id>
+  <location_A>Saudi Arabia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565610</tariff_id>
+  <location_A>Saudi Arabia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565607</tariff_id>
+  <location_A>Saudi Arabia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565606</tariff_id>
+  <location_A>Serbia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565605</tariff_id>
+  <location_A>Serbia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565604</tariff_id>
+  <location_A>Serbia Kosovo</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565603</tariff_id>
+  <location_A>Serbia Kosovo</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565654</tariff_id>
+  <location_A>Seychelles</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565653</tariff_id>
+  <location_A>Seychelles</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>3.30000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565652</tariff_id>
+  <location_A>Sierra Leone</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565651</tariff_id>
+  <location_A>Sierra Leone</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565648</tariff_id>
+  <location_A>Singapore</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.45000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565647</tariff_id>
+  <location_A>Singapore</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565650</tariff_id>
+  <location_A>Singapore</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565649</tariff_id>
+  <location_A>Singapore</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565602</tariff_id>
+  <location_A>Slovakia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565645</tariff_id>
+  <location_A>Slovakia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565646</tariff_id>
+  <location_A>Slovakia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565601</tariff_id>
+  <location_A>Slovakia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565600</tariff_id>
+  <location_A>Slovenia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565599</tariff_id>
+  <location_A>Slovenia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565598</tariff_id>
+  <location_A>Slovenia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565597</tariff_id>
+  <location_A>Slovenia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565596</tariff_id>
+  <location_A>South Africa</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565595</tariff_id>
+  <location_A>South Africa</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565593</tariff_id>
+  <location_A>South Africa</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565594</tariff_id>
+  <location_A>South Africa</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565592</tariff_id>
+  <location_A>Spain</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565591</tariff_id>
+  <location_A>Spain</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565590</tariff_id>
+  <location_A>Spain</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565589</tariff_id>
+  <location_A>Spain</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565588</tariff_id>
+  <location_A>Sri Lanka</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565586</tariff_id>
+  <location_A>Sri Lanka</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565587</tariff_id>
+  <location_A>Sri Lanka</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565585</tariff_id>
+  <location_A>Sri Lanka</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565582</tariff_id>
+  <location_A>St.Kitts</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565583</tariff_id>
+  <location_A>St.Kitts</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565584</tariff_id>
+  <location_A>St.Kitts</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565581</tariff_id>
+  <location_A>St.Kitts</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565578</tariff_id>
+  <location_A>St.Lucia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565579</tariff_id>
+  <location_A>St.Lucia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565580</tariff_id>
+  <location_A>St.Lucia</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565577</tariff_id>
+  <location_A>St.Lucia</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565576</tariff_id>
+  <location_A>St.Vincent / Grenada</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565575</tariff_id>
+  <location_A>St.Vincent / Grenada</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565574</tariff_id>
+  <location_A>St.Vincent / Grenada</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565573</tariff_id>
+  <location_A>St.Vincent / Grenada</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565570</tariff_id>
+  <location_A>St.Vincent / Grenada Mobile</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565571</tariff_id>
+  <location_A>St.Vincent / Grenada Mobile</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565572</tariff_id>
+  <location_A>St.Vincent / Grenada Mobile</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565569</tariff_id>
+  <location_A>St.Vincent / Grenada Mobile</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565568</tariff_id>
+  <location_A>Surinam</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565567</tariff_id>
+  <location_A>Surinam</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.85000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565564</tariff_id>
+  <location_A>Sweden</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565565</tariff_id>
+  <location_A>Sweden</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565566</tariff_id>
+  <location_A>Sweden</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565563</tariff_id>
+  <location_A>Sweden</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565562</tariff_id>
+  <location_A>Switzerland</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565561</tariff_id>
+  <location_A>Switzerland</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.75000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565560</tariff_id>
+  <location_A>Syria</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565559</tariff_id>
+  <location_A>Syria</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565558</tariff_id>
+  <location_A>Syria</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.65000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565557</tariff_id>
+  <location_A>Syria</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565555</tariff_id>
+  <location_A>Taiwan</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565556</tariff_id>
+  <location_A>Taiwan</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565554</tariff_id>
+  <location_A>Taiwan</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565553</tariff_id>
+  <location_A>Taiwan</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565552</tariff_id>
+  <location_A>Tajikistan</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565549</tariff_id>
+  <location_A>Tajikistan</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565551</tariff_id>
+  <location_A>Tajikistan</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565550</tariff_id>
+  <location_A>Tajikistan</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.55000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565548</tariff_id>
+  <location_A>Tanzania</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565547</tariff_id>
+  <location_A>Tanzania</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565545</tariff_id>
+  <location_A>Thailand</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565546</tariff_id>
+  <location_A>Thailand</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565544</tariff_id>
+  <location_A>Thailand</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.35000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565543</tariff_id>
+  <location_A>Thailand</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565542</tariff_id>
+  <location_A>Trinidad &amp;Tobago</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565541</tariff_id>
+  <location_A>Trinidad &amp;Tobago</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.99000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565540</tariff_id>
+  <location_A>Tunisia</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565539</tariff_id>
+  <location_A>Tunisia</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>1.25000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565538</tariff_id>
+  <location_A>Turk &amp; Caicos Isl.</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565537</tariff_id>
+  <location_A>Turk &amp; Caicos Isl.</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565535</tariff_id>
+  <location_A>Turk &amp; Caicos Isl.</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565536</tariff_id>
+  <location_A>Turk &amp; Caicos Isl.</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565534</tariff_id>
+  <location_A>Turkey</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565532</tariff_id>
+  <location_A>Turkey</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565533</tariff_id>
+  <location_A>Turkey</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565531</tariff_id>
+  <location_A>Turkey</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565521</tariff_id>
+  <location_A>Uganda</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.69000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565522</tariff_id>
+  <location_A>Uganda</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565520</tariff_id>
+  <location_A>Ukraine</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565517</tariff_id>
+  <location_A>Ukraine</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565518</tariff_id>
+  <location_A>Ukraine</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565519</tariff_id>
+  <location_A>Ukraine</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565516</tariff_id>
+  <location_A>United Arab Em.</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565515</tariff_id>
+  <location_A>United Arab Em.</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565511</tariff_id>
+  <location_A>United Kingdom</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565514</tariff_id>
+  <location_A>United Kingdom</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565512</tariff_id>
+  <location_A>United Kingdom</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.29000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565513</tariff_id>
+  <location_A>United Kingdom</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565509</tariff_id>
+  <location_A>Uruguay</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565508</tariff_id>
+  <location_A>Uruguay</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.59000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565507</tariff_id>
+  <location_A>Uruguay</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565510</tariff_id>
+  <location_A>Uruguay</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565527</tariff_id>
+  <location_A>USA</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565528</tariff_id>
+  <location_A>USA</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565530</tariff_id>
+  <location_A>USA</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565529</tariff_id>
+  <location_A>USA</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565524</tariff_id>
+  <location_A>USA Virgin Islands</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565525</tariff_id>
+  <location_A>USA Virgin Islands</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565526</tariff_id>
+  <location_A>USA Virgin Islands</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565523</tariff_id>
+  <location_A>USA Virgin Islands</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565503</tariff_id>
+  <location_A>Uzbekistan</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565506</tariff_id>
+  <location_A>Uzbekistan</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565505</tariff_id>
+  <location_A>Uzbekistan</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565504</tariff_id>
+  <location_A>Uzbekistan</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565501</tariff_id>
+  <location_A>Vanuatu Republic</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>2.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565502</tariff_id>
+  <location_A>Vanuatu Republic</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565499</tariff_id>
+  <location_A>Vatican City</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565500</tariff_id>
+  <location_A>Vatican City</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565498</tariff_id>
+  <location_A>Vatican City</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.39000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565497</tariff_id>
+  <location_A>Vatican City</location_A>
+  <direction_B>Voicemail</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565496</tariff_id>
+  <location_A>Vietnam</location_A>
+  <direction_B>Estonia Mobile</direction_B>
+  <base_price>0.19000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565495</tariff_id>
+  <location_A>Vietnam</location_A>
+  <direction_B>SOS Line</direction_B>
+  <base_price>0.00000 EUR</base_price>
+  <connection_fee>100.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+<tariff>
+  <tariff_id>105565494</tariff_id>
+  <location_A>Vietnam</location_A>
+  <direction_B>Support number</direction_B>
+  <base_price>0.50000 EUR</base_price>
+  <connection_fee>0.00000 EUR</connection_fee>
+  <billing_step>00:01:00</billing_step>
+</tariff>
+</outbound>
+</getrates>
