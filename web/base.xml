@@ -907,3 +907,1340 @@
 </Voice_plan>
 </service>
 </getrates>
+<?xml version="1.0" ?>
+<getrates>
+<service>
+<serviceid_name>Travelsim eSim</serviceid_name>
+<serviceid>28581</serviceid>
+<VAT_coefficient>1.0</VAT_coefficient>
+<GPRS_plan>
+<GPRS_base>
+  <GPRS_base_id>5860</GPRS_base_id>
+  <GPRS_base_desc>eSIM_rt_DATA_EUR</GPRS_base_desc>
+</GPRS_base><GPRS_discount>
+  <GPRS_discount_id>105636</GPRS_discount_id>
+  <GPRS_discount_name>Data 10Mb Zone B</GPRS_discount_name>
+  <GPRS_discount_code>1</GPRS_discount_code>
+  <GPRS_discount_volume>10.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>1.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Congo Dem. Republic</country>
+    <country>India</country>
+    <country>Albania</country>
+    <country>Armenia</country>
+    <country>Bosnia-Herzegovina</country>
+    <country>Anguilla</country>
+    <country>Antigua and Barbuda</country>
+    <country>Barbados</country>
+    <country>British Virgin Isl.</country>
+    <country>Cayman Islands</country>
+    <country>Dominica</country>
+    <country>Grenada</country>
+    <country>Caribbean Islands</country>
+    <country>Montserrat (UK)</country>
+    <country>St.Kitts</country>
+    <country>Saint Lucia</country>
+    <country>St.Vincent / Grenada</country>
+    <country>Turk &amp; Caicos Isl.</country>
+    <country>Macao</country>
+    <country>Sri Lanka</country>
+    <country>Aruba (Netherlands)</country>
+    <country>Netherlands Antilles</country>
+    <country>Japan</country>
+    <country>Tajikistan</country>
+    <country>Egypt</country>
+    <country>Moldova</country>
+    <country>Qatar</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105637</GPRS_discount_id>
+  <GPRS_discount_name>Data 50Mb Zone B</GPRS_discount_name>
+  <GPRS_discount_code>2</GPRS_discount_code>
+  <GPRS_discount_volume>50.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>5.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Congo Dem. Republic</country>
+    <country>India</country>
+    <country>Albania</country>
+    <country>Armenia</country>
+    <country>Bosnia-Herzegovina</country>
+    <country>Anguilla</country>
+    <country>Antigua and Barbuda</country>
+    <country>Barbados</country>
+    <country>British Virgin Isl.</country>
+    <country>Cayman Islands</country>
+    <country>Dominica</country>
+    <country>Grenada</country>
+    <country>Caribbean Islands</country>
+    <country>Montserrat (UK)</country>
+    <country>St.Kitts</country>
+    <country>Saint Lucia</country>
+    <country>St.Vincent / Grenada</country>
+    <country>Turk &amp; Caicos Isl.</country>
+    <country>Macao</country>
+    <country>Sri Lanka</country>
+    <country>Aruba (Netherlands)</country>
+    <country>Netherlands Antilles</country>
+    <country>Japan</country>
+    <country>Tajikistan</country>
+    <country>Egypt</country>
+    <country>Moldova</country>
+    <country>Qatar</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105638</GPRS_discount_id>
+  <GPRS_discount_name>Data 150Mb Zone B</GPRS_discount_name>
+  <GPRS_discount_code>3</GPRS_discount_code>
+  <GPRS_discount_volume>150.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>10.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Congo Dem. Republic</country>
+    <country>India</country>
+    <country>Albania</country>
+    <country>Armenia</country>
+    <country>Bosnia-Herzegovina</country>
+    <country>Anguilla</country>
+    <country>Antigua and Barbuda</country>
+    <country>Barbados</country>
+    <country>British Virgin Isl.</country>
+    <country>Cayman Islands</country>
+    <country>Dominica</country>
+    <country>Grenada</country>
+    <country>Caribbean Islands</country>
+    <country>Montserrat (UK)</country>
+    <country>St.Kitts</country>
+    <country>Saint Lucia</country>
+    <country>St.Vincent / Grenada</country>
+    <country>Turk &amp; Caicos Isl.</country>
+    <country>Macao</country>
+    <country>Sri Lanka</country>
+    <country>Aruba (Netherlands)</country>
+    <country>Netherlands Antilles</country>
+    <country>Japan</country>
+    <country>Tajikistan</country>
+    <country>Egypt</country>
+    <country>Moldova</country>
+    <country>Qatar</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105639</GPRS_discount_id>
+  <GPRS_discount_name>Data 250Mb Zone B</GPRS_discount_name>
+  <GPRS_discount_code>4</GPRS_discount_code>
+  <GPRS_discount_volume>250.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>19.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Congo Dem. Republic</country>
+    <country>India</country>
+    <country>Albania</country>
+    <country>Armenia</country>
+    <country>Bosnia-Herzegovina</country>
+    <country>Anguilla</country>
+    <country>Antigua and Barbuda</country>
+    <country>Barbados</country>
+    <country>British Virgin Isl.</country>
+    <country>Cayman Islands</country>
+    <country>Dominica</country>
+    <country>Grenada</country>
+    <country>Caribbean Islands</country>
+    <country>Montserrat (UK)</country>
+    <country>St.Kitts</country>
+    <country>Saint Lucia</country>
+    <country>St.Vincent / Grenada</country>
+    <country>Turk &amp; Caicos Isl.</country>
+    <country>Macao</country>
+    <country>Sri Lanka</country>
+    <country>Aruba (Netherlands)</country>
+    <country>Netherlands Antilles</country>
+    <country>Japan</country>
+    <country>Tajikistan</country>
+    <country>Egypt</country>
+    <country>Moldova</country>
+    <country>Qatar</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105640</GPRS_discount_id>
+  <GPRS_discount_name>Data 500Mb Zone B</GPRS_discount_name>
+  <GPRS_discount_code>5</GPRS_discount_code>
+  <GPRS_discount_volume>500.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>35.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Congo Dem. Republic</country>
+    <country>India</country>
+    <country>Albania</country>
+    <country>Armenia</country>
+    <country>Bosnia-Herzegovina</country>
+    <country>Anguilla</country>
+    <country>Antigua and Barbuda</country>
+    <country>Barbados</country>
+    <country>British Virgin Isl.</country>
+    <country>Cayman Islands</country>
+    <country>Dominica</country>
+    <country>Grenada</country>
+    <country>Caribbean Islands</country>
+    <country>Montserrat (UK)</country>
+    <country>St.Kitts</country>
+    <country>Saint Lucia</country>
+    <country>St.Vincent / Grenada</country>
+    <country>Turk &amp; Caicos Isl.</country>
+    <country>Macao</country>
+    <country>Sri Lanka</country>
+    <country>Aruba (Netherlands)</country>
+    <country>Netherlands Antilles</country>
+    <country>Japan</country>
+    <country>Tajikistan</country>
+    <country>Egypt</country>
+    <country>Moldova</country>
+    <country>Qatar</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105641</GPRS_discount_id>
+  <GPRS_discount_name>Daily Auto 10Mb Zone B</GPRS_discount_name>
+  <GPRS_discount_code>7</GPRS_discount_code>
+  <GPRS_discount_volume>10.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>0.75000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Congo Dem. Republic</country>
+    <country>India</country>
+    <country>Albania</country>
+    <country>Armenia</country>
+    <country>Bosnia-Herzegovina</country>
+    <country>Anguilla</country>
+    <country>Antigua and Barbuda</country>
+    <country>Barbados</country>
+    <country>British Virgin Isl.</country>
+    <country>Cayman Islands</country>
+    <country>Dominica</country>
+    <country>Grenada</country>
+    <country>Caribbean Islands</country>
+    <country>Montserrat (UK)</country>
+    <country>St.Kitts</country>
+    <country>Saint Lucia</country>
+    <country>St.Vincent / Grenada</country>
+    <country>Turk &amp; Caicos Isl.</country>
+    <country>Macao</country>
+    <country>Sri Lanka</country>
+    <country>Aruba (Netherlands)</country>
+    <country>Netherlands Antilles</country>
+    <country>Japan</country>
+    <country>Tajikistan</country>
+    <country>Egypt</country>
+    <country>Moldova</country>
+    <country>Qatar</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105642</GPRS_discount_id>
+  <GPRS_discount_name>Data 2000Mb Zone B</GPRS_discount_name>
+  <GPRS_discount_code>8</GPRS_discount_code>
+  <GPRS_discount_volume>2000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>89.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Congo Dem. Republic</country>
+    <country>India</country>
+    <country>Albania</country>
+    <country>Armenia</country>
+    <country>Bosnia-Herzegovina</country>
+    <country>Anguilla</country>
+    <country>Antigua and Barbuda</country>
+    <country>Barbados</country>
+    <country>British Virgin Isl.</country>
+    <country>Cayman Islands</country>
+    <country>Dominica</country>
+    <country>Grenada</country>
+    <country>Caribbean Islands</country>
+    <country>Montserrat (UK)</country>
+    <country>St.Kitts</country>
+    <country>Saint Lucia</country>
+    <country>St.Vincent / Grenada</country>
+    <country>Turk &amp; Caicos Isl.</country>
+    <country>Macao</country>
+    <country>Sri Lanka</country>
+    <country>Aruba (Netherlands)</country>
+    <country>Netherlands Antilles</country>
+    <country>Japan</country>
+    <country>Tajikistan</country>
+    <country>Egypt</country>
+    <country>Moldova</country>
+    <country>Qatar</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105643</GPRS_discount_id>
+  <GPRS_discount_name>Data 1000Mb Zone B</GPRS_discount_name>
+  <GPRS_discount_code>9</GPRS_discount_code>
+  <GPRS_discount_volume>1000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>55.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Congo Dem. Republic</country>
+    <country>India</country>
+    <country>Albania</country>
+    <country>Armenia</country>
+    <country>Bosnia-Herzegovina</country>
+    <country>Anguilla</country>
+    <country>Antigua and Barbuda</country>
+    <country>Barbados</country>
+    <country>British Virgin Isl.</country>
+    <country>Cayman Islands</country>
+    <country>Dominica</country>
+    <country>Grenada</country>
+    <country>Caribbean Islands</country>
+    <country>Montserrat (UK)</country>
+    <country>St.Kitts</country>
+    <country>Saint Lucia</country>
+    <country>St.Vincent / Grenada</country>
+    <country>Turk &amp; Caicos Isl.</country>
+    <country>Macao</country>
+    <country>Sri Lanka</country>
+    <country>Aruba (Netherlands)</country>
+    <country>Netherlands Antilles</country>
+    <country>Japan</country>
+    <country>Tajikistan</country>
+    <country>Egypt</country>
+    <country>Moldova</country>
+    <country>Qatar</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105644</GPRS_discount_id>
+  <GPRS_discount_name>Data 1000Mb Zone A</GPRS_discount_name>
+  <GPRS_discount_code>11</GPRS_discount_code>
+  <GPRS_discount_volume>1000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>18.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Azerbaijan</country>
+    <country>China</country>
+    <country>Guatemala</country>
+    <country>Peru</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Honduras</country>
+    <country>Uruguay</country>
+    <country>Ecuador</country>
+    <country>Uzbekistan</country>
+    <country>Malaysia</country>
+    <country>Nicaragua</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Vietnam</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105645</GPRS_discount_id>
+  <GPRS_discount_name>Special Data package 5000Mb</GPRS_discount_name>
+  <GPRS_discount_code>12</GPRS_discount_code>
+  <GPRS_discount_volume>5000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>26.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>Greece</country>
+    <country>Estonia</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Russian Federation</country>
+    <country>Norway</country>
+    <country>Satellite</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105646</GPRS_discount_id>
+  <GPRS_discount_name>Data 10Mb Zone A</GPRS_discount_name>
+  <GPRS_discount_code>13</GPRS_discount_code>
+  <GPRS_discount_volume>10.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>0.50000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Azerbaijan</country>
+    <country>China</country>
+    <country>Guatemala</country>
+    <country>Peru</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Honduras</country>
+    <country>Uruguay</country>
+    <country>Ecuador</country>
+    <country>Uzbekistan</country>
+    <country>Malaysia</country>
+    <country>Nicaragua</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Vietnam</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105647</GPRS_discount_id>
+  <GPRS_discount_name>Data 50Mb Zone A</GPRS_discount_name>
+  <GPRS_discount_code>14</GPRS_discount_code>
+  <GPRS_discount_volume>50.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>2.50000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Azerbaijan</country>
+    <country>China</country>
+    <country>Guatemala</country>
+    <country>Peru</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Honduras</country>
+    <country>Uruguay</country>
+    <country>Ecuador</country>
+    <country>Uzbekistan</country>
+    <country>Malaysia</country>
+    <country>Nicaragua</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Vietnam</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105648</GPRS_discount_id>
+  <GPRS_discount_name>Data 150Mb Zone A</GPRS_discount_name>
+  <GPRS_discount_code>15</GPRS_discount_code>
+  <GPRS_discount_volume>150.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>5.50000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Azerbaijan</country>
+    <country>China</country>
+    <country>Guatemala</country>
+    <country>Peru</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Honduras</country>
+    <country>Uruguay</country>
+    <country>Ecuador</country>
+    <country>Uzbekistan</country>
+    <country>Malaysia</country>
+    <country>Nicaragua</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Vietnam</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105649</GPRS_discount_id>
+  <GPRS_discount_name>Data 250Mb Zone A</GPRS_discount_name>
+  <GPRS_discount_code>16</GPRS_discount_code>
+  <GPRS_discount_volume>250.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>8.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Azerbaijan</country>
+    <country>China</country>
+    <country>Guatemala</country>
+    <country>Peru</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Honduras</country>
+    <country>Uruguay</country>
+    <country>Ecuador</country>
+    <country>Uzbekistan</country>
+    <country>Malaysia</country>
+    <country>Nicaragua</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Vietnam</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105650</GPRS_discount_id>
+  <GPRS_discount_name>Data 500Mb Zone A</GPRS_discount_name>
+  <GPRS_discount_code>17</GPRS_discount_code>
+  <GPRS_discount_volume>500.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>12.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Azerbaijan</country>
+    <country>China</country>
+    <country>Guatemala</country>
+    <country>Peru</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Honduras</country>
+    <country>Uruguay</country>
+    <country>Ecuador</country>
+    <country>Uzbekistan</country>
+    <country>Malaysia</country>
+    <country>Nicaragua</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Vietnam</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105651</GPRS_discount_id>
+  <GPRS_discount_name>Daily Auto 10Mb Zone A</GPRS_discount_name>
+  <GPRS_discount_code>20</GPRS_discount_code>
+  <GPRS_discount_volume>10.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>0.50000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Azerbaijan</country>
+    <country>China</country>
+    <country>Guatemala</country>
+    <country>Peru</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Honduras</country>
+    <country>Uruguay</country>
+    <country>Ecuador</country>
+    <country>Uzbekistan</country>
+    <country>Malaysia</country>
+    <country>Nicaragua</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Vietnam</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105652</GPRS_discount_id>
+  <GPRS_discount_name>Data 2000Mb Zone A</GPRS_discount_name>
+  <GPRS_discount_code>40</GPRS_discount_code>
+  <GPRS_discount_volume>2000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>34.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Azerbaijan</country>
+    <country>China</country>
+    <country>Guatemala</country>
+    <country>Peru</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Honduras</country>
+    <country>Uruguay</country>
+    <country>Ecuador</country>
+    <country>Uzbekistan</country>
+    <country>Malaysia</country>
+    <country>Nicaragua</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Vietnam</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105653</GPRS_discount_id>
+  <GPRS_discount_name>Europe PLUS Data Package AUTO</GPRS_discount_name>
+  <GPRS_discount_code>48</GPRS_discount_code>
+  <GPRS_discount_volume>0.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>0.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>United Kingdom</country>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>Ukraine</country>
+    <country>USA</country>
+    <country>Turkey</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Kazakhstan</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>France</country>
+    <country>Poland</country>
+    <country>Costa Rica</country>
+    <country>El Salvador</country>
+    <country>Panama</country>
+    <country>Argentine</country>
+    <country>Dominican Republic</country>
+    <country>Paraguay</country>
+    <country>Puerto Rico</country>
+    <country>Colombia</country>
+    <country>Greece</country>
+    <country>Germany</country>
+    <country>Estonia</country>
+    <country>Slovakia</country>
+    <country>Faeroe Islands</country>
+    <country>Gibraltar</country>
+    <country>Bulgaria</country>
+    <country>Malta</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Belarus</country>
+    <country>Russian Federation</country>
+    <country>Ireland</country>
+    <country>Liechtenstein</country>
+    <country>Slovenia</country>
+    <country>Norway</country>
+    <country>Iceland</country>
+    <country>Portugal</country>
+    <country>Australia</country>
+    <country>Satellite</country>
+    <country>Israel</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>Luxembourg</country>
+    <country>Korea (South)</country>
+    <country>Czech.Rep.</country>
+    <country>Croatia</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105654</GPRS_discount_id>
+  <GPRS_discount_name>Special Data package 1000Mb</GPRS_discount_name>
+  <GPRS_discount_code>50</GPRS_discount_code>
+  <GPRS_discount_volume>1000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>5.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>Greece</country>
+    <country>Estonia</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Russian Federation</country>
+    <country>Norway</country>
+    <country>Satellite</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105655</GPRS_discount_id>
+  <GPRS_discount_name>Turkey Data Package</GPRS_discount_name>
+  <GPRS_discount_code>51</GPRS_discount_code>
+  <GPRS_discount_volume>1000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>14.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Turkey</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105656</GPRS_discount_id>
+  <GPRS_discount_name>Europe Extra Data Package 5000MB</GPRS_discount_name>
+  <GPRS_discount_code>52</GPRS_discount_code>
+  <GPRS_discount_volume>5000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>39.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>United Kingdom</country>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>USA</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>France</country>
+    <country>Poland</country>
+    <country>Greece</country>
+    <country>Germany</country>
+    <country>Estonia</country>
+    <country>Slovakia</country>
+    <country>Gibraltar</country>
+    <country>Bulgaria</country>
+    <country>Malta</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Russian Federation</country>
+    <country>Ireland</country>
+    <country>Liechtenstein</country>
+    <country>Slovenia</country>
+    <country>Norway</country>
+    <country>Iceland</country>
+    <country>Portugal</country>
+    <country>Satellite</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>Luxembourg</country>
+    <country>Czech.Rep.</country>
+    <country>Croatia</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105657</GPRS_discount_id>
+  <GPRS_discount_name>Data 3000Mb Zone A</GPRS_discount_name>
+  <GPRS_discount_code>63</GPRS_discount_code>
+  <GPRS_discount_volume>3000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>49.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Azerbaijan</country>
+    <country>China</country>
+    <country>Guatemala</country>
+    <country>Peru</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Honduras</country>
+    <country>Uruguay</country>
+    <country>Ecuador</country>
+    <country>Uzbekistan</country>
+    <country>Malaysia</country>
+    <country>Nicaragua</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Vietnam</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105658</GPRS_discount_id>
+  <GPRS_discount_name>Data 5000Mb Zone A</GPRS_discount_name>
+  <GPRS_discount_code>64</GPRS_discount_code>
+  <GPRS_discount_volume>5000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>79.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Azerbaijan</country>
+    <country>China</country>
+    <country>Guatemala</country>
+    <country>Peru</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Honduras</country>
+    <country>Uruguay</country>
+    <country>Ecuador</country>
+    <country>Uzbekistan</country>
+    <country>Malaysia</country>
+    <country>Nicaragua</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Vietnam</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105659</GPRS_discount_id>
+  <GPRS_discount_name>Data 3000Mb Zone B</GPRS_discount_name>
+  <GPRS_discount_code>67</GPRS_discount_code>
+  <GPRS_discount_volume>3000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>120.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Congo Dem. Republic</country>
+    <country>India</country>
+    <country>Albania</country>
+    <country>Armenia</country>
+    <country>Bosnia-Herzegovina</country>
+    <country>Anguilla</country>
+    <country>Antigua and Barbuda</country>
+    <country>Barbados</country>
+    <country>British Virgin Isl.</country>
+    <country>Cayman Islands</country>
+    <country>Dominica</country>
+    <country>Grenada</country>
+    <country>Caribbean Islands</country>
+    <country>Montserrat (UK)</country>
+    <country>St.Kitts</country>
+    <country>Saint Lucia</country>
+    <country>St.Vincent / Grenada</country>
+    <country>Turk &amp; Caicos Isl.</country>
+    <country>Macao</country>
+    <country>Sri Lanka</country>
+    <country>Aruba (Netherlands)</country>
+    <country>Netherlands Antilles</country>
+    <country>Japan</country>
+    <country>Tajikistan</country>
+    <country>Egypt</country>
+    <country>Moldova</country>
+    <country>Qatar</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105660</GPRS_discount_id>
+  <GPRS_discount_name>Data 5000Mb Zone B</GPRS_discount_name>
+  <GPRS_discount_code>68</GPRS_discount_code>
+  <GPRS_discount_volume>5000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>145.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>Congo Dem. Republic</country>
+    <country>India</country>
+    <country>Albania</country>
+    <country>Armenia</country>
+    <country>Bosnia-Herzegovina</country>
+    <country>Anguilla</country>
+    <country>Antigua and Barbuda</country>
+    <country>Barbados</country>
+    <country>British Virgin Isl.</country>
+    <country>Cayman Islands</country>
+    <country>Dominica</country>
+    <country>Grenada</country>
+    <country>Caribbean Islands</country>
+    <country>Montserrat (UK)</country>
+    <country>St.Kitts</country>
+    <country>Saint Lucia</country>
+    <country>St.Vincent / Grenada</country>
+    <country>Turk &amp; Caicos Isl.</country>
+    <country>Macao</country>
+    <country>Sri Lanka</country>
+    <country>Aruba (Netherlands)</country>
+    <country>Netherlands Antilles</country>
+    <country>Japan</country>
+    <country>Tajikistan</country>
+    <country>Egypt</country>
+    <country>Moldova</country>
+    <country>Qatar</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Serbia</country>
+    <country>South Africa</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105661</GPRS_discount_id>
+  <GPRS_discount_name>Europe Extra Data Package 1000MB</GPRS_discount_name>
+  <GPRS_discount_code>75</GPRS_discount_code>
+  <GPRS_discount_volume>1000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>8.90000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>United Kingdom</country>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>USA</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>France</country>
+    <country>Poland</country>
+    <country>Greece</country>
+    <country>Germany</country>
+    <country>Estonia</country>
+    <country>Slovakia</country>
+    <country>Gibraltar</country>
+    <country>Bulgaria</country>
+    <country>Malta</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Russian Federation</country>
+    <country>Ireland</country>
+    <country>Liechtenstein</country>
+    <country>Slovenia</country>
+    <country>Norway</country>
+    <country>Iceland</country>
+    <country>Portugal</country>
+    <country>Satellite</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>Luxembourg</country>
+    <country>Czech.Rep.</country>
+    <country>Croatia</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105662</GPRS_discount_id>
+  <GPRS_discount_name>Europe Extra Data Package 100MB AUTO</GPRS_discount_name>
+  <GPRS_discount_code>76</GPRS_discount_code>
+  <GPRS_discount_volume>100.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>0.90000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>United Kingdom</country>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>USA</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>France</country>
+    <country>Poland</country>
+    <country>Greece</country>
+    <country>Germany</country>
+    <country>Estonia</country>
+    <country>Slovakia</country>
+    <country>Gibraltar</country>
+    <country>Bulgaria</country>
+    <country>Malta</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Russian Federation</country>
+    <country>Ireland</country>
+    <country>Liechtenstein</country>
+    <country>Slovenia</country>
+    <country>Norway</country>
+    <country>Iceland</country>
+    <country>Portugal</country>
+    <country>Satellite</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>Luxembourg</country>
+    <country>Czech.Rep.</country>
+    <country>Croatia</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105663</GPRS_discount_id>
+  <GPRS_discount_name>Europe Data Package 5000MB</GPRS_discount_name>
+  <GPRS_discount_code>77</GPRS_discount_code>
+  <GPRS_discount_volume>5000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>25.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>United Kingdom</country>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>France</country>
+    <country>Poland</country>
+    <country>Greece</country>
+    <country>Germany</country>
+    <country>Estonia</country>
+    <country>Slovakia</country>
+    <country>Gibraltar</country>
+    <country>Bulgaria</country>
+    <country>Malta</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Ireland</country>
+    <country>Liechtenstein</country>
+    <country>Slovenia</country>
+    <country>Norway</country>
+    <country>Iceland</country>
+    <country>Portugal</country>
+    <country>Satellite</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Luxembourg</country>
+    <country>Czech.Rep.</country>
+    <country>Croatia</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105664</GPRS_discount_id>
+  <GPRS_discount_name>Europe Data Package 10000MB</GPRS_discount_name>
+  <GPRS_discount_code>78</GPRS_discount_code>
+  <GPRS_discount_volume>10000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>49.00000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>United Kingdom</country>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>France</country>
+    <country>Poland</country>
+    <country>Greece</country>
+    <country>Germany</country>
+    <country>Estonia</country>
+    <country>Slovakia</country>
+    <country>Gibraltar</country>
+    <country>Bulgaria</country>
+    <country>Malta</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Ireland</country>
+    <country>Liechtenstein</country>
+    <country>Slovenia</country>
+    <country>Norway</country>
+    <country>Iceland</country>
+    <country>Portugal</country>
+    <country>Satellite</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Luxembourg</country>
+    <country>Czech.Rep.</country>
+    <country>Croatia</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105633</GPRS_discount_id>
+  <GPRS_discount_name>Europe Extra Data Package 500MB AUTO</GPRS_discount_name>
+  <GPRS_discount_code>92</GPRS_discount_code>
+  <GPRS_discount_volume>500.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>3.90000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>United Kingdom</country>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>USA</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>France</country>
+    <country>Poland</country>
+    <country>Greece</country>
+    <country>Germany</country>
+    <country>Estonia</country>
+    <country>Slovakia</country>
+    <country>Gibraltar</country>
+    <country>Bulgaria</country>
+    <country>Malta</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Russian Federation</country>
+    <country>Ireland</country>
+    <country>Liechtenstein</country>
+    <country>Slovenia</country>
+    <country>Norway</country>
+    <country>Iceland</country>
+    <country>Portugal</country>
+    <country>Satellite</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>Luxembourg</country>
+    <country>Czech.Rep.</country>
+    <country>Croatia</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105634</GPRS_discount_id>
+  <GPRS_discount_name>Europe Extra Data Package 2000MB</GPRS_discount_name>
+  <GPRS_discount_code>93</GPRS_discount_code>
+  <GPRS_discount_volume>2000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>16.90000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>United Kingdom</country>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>USA</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>France</country>
+    <country>Poland</country>
+    <country>Greece</country>
+    <country>Germany</country>
+    <country>Estonia</country>
+    <country>Slovakia</country>
+    <country>Gibraltar</country>
+    <country>Bulgaria</country>
+    <country>Malta</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Russian Federation</country>
+    <country>Ireland</country>
+    <country>Liechtenstein</country>
+    <country>Slovenia</country>
+    <country>Norway</country>
+    <country>Iceland</country>
+    <country>Portugal</country>
+    <country>Satellite</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>Luxembourg</country>
+    <country>Czech.Rep.</country>
+    <country>Croatia</country>
+  </countries>
+</GPRS_discount>
+<GPRS_discount>
+  <GPRS_discount_id>105635</GPRS_discount_id>
+  <GPRS_discount_name>Europe Extra Data Package 10000MB</GPRS_discount_name>
+  <GPRS_discount_code>94</GPRS_discount_code>
+  <GPRS_discount_volume>10000.00 MB</GPRS_discount_volume>
+  <GPRS_discount_price>72.90000 EUR</GPRS_discount_price>
+  <GPRS_discount_ocost>0.00000 EUR</GPRS_discount_ocost>
+  <messages>
+    <Activate>%gd_cost data package has been activated</Activate>
+    <Deactivate>%gd_cost data package is deactivated</Deactivate>
+    <Status>You have used %gd_used, you can still use %gd_data, remaining time %gd_time</Status>
+  </messages>
+  <countries>
+    <country>United Kingdom</country>
+    <country>Finland</country>
+    <country>Cyprus</country>
+    <country>USA</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Lithuania</country>
+    <country>Latvia</country>
+    <country>France</country>
+    <country>Poland</country>
+    <country>Greece</country>
+    <country>Germany</country>
+    <country>Estonia</country>
+    <country>Slovakia</country>
+    <country>Gibraltar</country>
+    <country>Bulgaria</country>
+    <country>Malta</country>
+    <country>Sweden</country>
+    <country>Denmark</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Russian Federation</country>
+    <country>Ireland</country>
+    <country>Liechtenstein</country>
+    <country>Slovenia</country>
+    <country>Norway</country>
+    <country>Iceland</country>
+    <country>Portugal</country>
+    <country>Satellite</country>
+    <country>Romania</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>Luxembourg</country>
+    <country>Czech.Rep.</country>
+    <country>Croatia</country>
+  </countries>
+</GPRS_discount>
+</GPRS_plan>
+<SMS_plan>
+<SMS_base>
+  <SMS_base_id>5665</SMS_base_id>
+  <SMS_base_desc>eSIM_st_SMS_wh35_EUR</SMS_base_desc>
+</SMS_base></SMS_plan>
+<Voice_plan>
+<Voice_base>
+  <Voice_base_id>34561</Voice_base_id>
+  <Voice_base_desc>eSIM_ST_rt_EUR</Voice_base_desc>
+</Voice_base><Voice_special>
+  <Voice_special_id>34562</Voice_special_id>
+  <Voice_special_desc>eSIM_Spec_ST_rt_EUR</Voice_special_desc>
+</Voice_special><Voice_camel>
+  <Voice_camel_id>7661</Voice_camel_id>
+  <Voice_camel_name>TravelSim Direct</Voice_camel_name>
+  <Voice_camel_code>1</Voice_camel_code>
+  <Voice_camel_volume></Voice_camel_volume>
+  <Voice_camel_price>0.00000 EUR</Voice_camel_price>
+  <Voice_camel_ocost>0.00000 EUR</Voice_camel_ocost>
+  <Voice_camel_retail_id>23063</Voice_camel_retail_id>
+  <messages>
+    <Activate>%c_name, has been activated for your SIM card</Activate>
+    <Deactivate>%c_name, has been deactivated for your SIM card</Deactivate>
+    <Status>Currently you have %c_name packet activated on %c_date</Status>
+  </messages>
+</Voice_camel>
+</Voice_plan>
+</service>
+</getrates>
