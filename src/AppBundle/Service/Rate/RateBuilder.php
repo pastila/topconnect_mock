@@ -13,6 +13,11 @@ class RateBuilder
     $this->webDir = $webDir;
   }
 
+  public function getServiceOptions (Account $account, $params)
+  {
+    return file_get_contents($this->webDir . '/serviceoptions.xml');
+  }
+
   public function getRates (Account $account, $params)
   {
     $ratesId = $params['ratesid'] ? $params['ratesid'] :  null;

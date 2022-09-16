@@ -1,0 +1,323 @@
+<?xml version="1.0" ?>
+<getserviceoptions>
+<gprs>
+  <package_name>Data 10Mb Zone B</package_name>
+  <package_code>1</package_code>
+  <validity_period_in_days>1</validity_period_in_days>
+  <data_package>10.00 MB</data_package>
+  <activation_fee>1.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 50Mb Zone B</package_name>
+  <package_code>2</package_code>
+  <validity_period_in_days>1</validity_period_in_days>
+  <data_package>50.00 MB</data_package>
+  <activation_fee>5.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 150Mb Zone B</package_name>
+  <package_code>3</package_code>
+  <validity_period_in_days>7</validity_period_in_days>
+  <data_package>150.00 MB</data_package>
+  <activation_fee>10.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 250Mb Zone B</package_name>
+  <package_code>4</package_code>
+  <validity_period_in_days>14</validity_period_in_days>
+  <data_package>250.00 MB</data_package>
+  <activation_fee>19.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 500Mb Zone B</package_name>
+  <package_code>5</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>500.00 MB</data_package>
+  <activation_fee>35.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Daily Auto 10Mb Zone B</package_name>
+  <package_code>7</package_code>
+  <validity_period_in_days>1</validity_period_in_days>
+  <data_package>10.00 MB</data_package>
+  <activation_fee>0.7500 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>auto</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 2000Mb Zone B</package_name>
+  <package_code>8</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>2000.00 MB</data_package>
+  <activation_fee>89.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 1000Mb Zone B</package_name>
+  <package_code>9</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>1000.00 MB</data_package>
+  <activation_fee>55.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 1000Mb Zone A</package_name>
+  <package_code>11</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>1000.00 MB</data_package>
+  <activation_fee>18.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Special Data package 5000Mb</package_name>
+  <package_code>12</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>5000.00 MB</data_package>
+  <activation_fee>26.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 10Mb Zone A</package_name>
+  <package_code>13</package_code>
+  <validity_period_in_days>1</validity_period_in_days>
+  <data_package>10.00 MB</data_package>
+  <activation_fee>0.5000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 50Mb Zone A</package_name>
+  <package_code>14</package_code>
+  <validity_period_in_days>1</validity_period_in_days>
+  <data_package>50.00 MB</data_package>
+  <activation_fee>2.5000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 150Mb Zone A</package_name>
+  <package_code>15</package_code>
+  <validity_period_in_days>7</validity_period_in_days>
+  <data_package>150.00 MB</data_package>
+  <activation_fee>5.5000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 250Mb Zone A</package_name>
+  <package_code>16</package_code>
+  <validity_period_in_days>14</validity_period_in_days>
+  <data_package>250.00 MB</data_package>
+  <activation_fee>8.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 500Mb Zone A</package_name>
+  <package_code>17</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>500.00 MB</data_package>
+  <activation_fee>12.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Daily Auto 10Mb Zone A</package_name>
+  <package_code>20</package_code>
+  <validity_period_in_days>1</validity_period_in_days>
+  <data_package>10.00 MB</data_package>
+  <activation_fee>0.5000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>auto</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 2000Mb Zone A</package_name>
+  <package_code>40</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>2000.00 MB</data_package>
+  <activation_fee>34.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Europe PLUS Data Package AUTO</package_name>
+  <package_code>48</package_code>
+  <validity_period_in_days>365</validity_period_in_days>
+  <data_package>0.00 MB</data_package>
+  <activation_fee>0.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>auto</activation_type>
+</gprs>
+<gprs>
+  <package_name>Special Data package 1000Mb</package_name>
+  <package_code>50</package_code>
+  <validity_period_in_days>14</validity_period_in_days>
+  <data_package>1000.00 MB</data_package>
+  <activation_fee>5.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Turkey Data Package</package_name>
+  <package_code>51</package_code>
+  <validity_period_in_days>14</validity_period_in_days>
+  <data_package>1000.00 MB</data_package>
+  <activation_fee>14.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Europe Extra Data Package 5000MB</package_name>
+  <package_code>52</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>5000.00 MB</data_package>
+  <activation_fee>39.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 3000Mb Zone A</package_name>
+  <package_code>63</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>3000.00 MB</data_package>
+  <activation_fee>49.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 5000Mb Zone A</package_name>
+  <package_code>64</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>5000.00 MB</data_package>
+  <activation_fee>79.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 3000Mb Zone B</package_name>
+  <package_code>67</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>3000.00 MB</data_package>
+  <activation_fee>120.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Data 5000Mb Zone B</package_name>
+  <package_code>68</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>5000.00 MB</data_package>
+  <activation_fee>145.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Europe Extra Data Package 1000MB</package_name>
+  <package_code>75</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>1000.00 MB</data_package>
+  <activation_fee>8.9000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Europe Extra Data Package 100MB AUTO</package_name>
+  <package_code>76</package_code>
+  <validity_period_in_days>1</validity_period_in_days>
+  <data_package>100.00 MB</data_package>
+  <activation_fee>0.9000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>auto</activation_type>
+</gprs>
+<gprs>
+  <package_name>Europe Data Package 5000MB</package_name>
+  <package_code>77</package_code>
+  <validity_period_in_days>14</validity_period_in_days>
+  <data_package>5000.00 MB</data_package>
+  <activation_fee>25.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Europe Data Package 10000MB</package_name>
+  <package_code>78</package_code>
+  <validity_period_in_days>14</validity_period_in_days>
+  <data_package>10000.00 MB</data_package>
+  <activation_fee>49.0000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Europe Extra Data Package 500MB AUTO</package_name>
+  <package_code>92</package_code>
+  <validity_period_in_days>1</validity_period_in_days>
+  <data_package>500.00 MB</data_package>
+  <activation_fee>3.9000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>auto</activation_type>
+</gprs>
+<gprs>
+  <package_name>Europe Extra Data Package 2000MB</package_name>
+  <package_code>93</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>2000.00 MB</data_package>
+  <activation_fee>16.9000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+<gprs>
+  <package_name>Europe Extra Data Package 10000MB</package_name>
+  <package_code>94</package_code>
+  <validity_period_in_days>30</validity_period_in_days>
+  <data_package>10000.00 MB</data_package>
+  <activation_fee>72.9000 EUR</activation_fee>
+  <order_fee>0.0000 EUR</order_fee>
+  <currency>EUR</currency>
+  <activation_type>order</activation_type>
+</gprs>
+</getserviceoptions>

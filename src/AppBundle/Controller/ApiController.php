@@ -77,6 +77,9 @@ class ApiController extends Controller
           case 'getrates':
             $result = $this->get('AppBundle\Service\Rate\RateBuilder')->getRates($account, $qData);
             break;
+          case 'getserviceoptions':
+            $result = $this->get('AppBundle\Service\Rate\RateBuilder')->getServiceOptions($account, $qData);
+            break;
           case 'gprscdr':
             $result = $this->get('AppBundle\Service\CallRecord\RecordListBuilder')->getDataRecordList($account, $qData);
             break;
