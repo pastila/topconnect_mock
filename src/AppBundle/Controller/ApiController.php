@@ -108,6 +108,9 @@ class ApiController extends Controller
               $result = $this->get(DataPackageService::class)->getPackageList($account, $qData);
             }
             break;
+          case 'discountm':
+            $result = $this->get(DataPackageService::class)->getPackageMList($account, $qData);
+            break;
         }
       }
       catch (\Exception $e)

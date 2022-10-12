@@ -205,6 +205,60 @@ class DataPackageService
    * @return bool|string
    * @throws \Exception
    */
+  public function getPackageMList (Account $account, $params)
+  {
+    $onum = $params['onum'];
+    /** @var Card $card */
+    $card = $this->entityManager->getRepository(Card::class)->createQueryBuilder('c')
+      ->where('c.msisdn = :onum')
+      ->setParameter('onum', $onum)
+      ->getQuery()
+      ->getOneOrNullResult();
+
+    if ($card === null)
+    {
+      throw new \Exception(sprintf('Msisdn %s not found', $onum));
+    }
+
+    $records = $card->getDataPackageRecords();
+    $xml = new \SimpleXMLElement('<discountm/>');
+
+    foreach ($records as $record)
+    {
+      if ($record->getExpireAt() >= new \DateTime())
+      {
+        $item = $xml->addChild('gprs');
+        $item->addChild('onum', $record->getCard()->getMsisdn());
+        $item->addChild('tsimid', $record->getCard()->getMsisdn());
+        $item->addChild('activation_date', $record->getCreatedAt()->format('Y-m-d H:i:s'));
+        $item->addChild('expire_date', $record->getExpireAt()->format('Y-m-d H:i:s'));
+        $item->addChild('type', $record->getPackage()->getName());
+        $item->addChild('text', $record->getPackage()->getName());
+        $item->addChild('cost', $record->getPrice());
+        $item->addChild('package_code', $record->getPackage()->getCode());
+        $item->addChild('multistatus', 'active');
+        $item->addChild('amount', '0');
+        $item->addChild('dataLeft', '0');
+        $item->addChild('nextCooldown', '0');
+        $item->addChild('cooldown', '1440');
+        $item->addChild('activation_number', '0');
+        $item->addChild('ocost', '0');
+        $item->addChild('currency', 'EUR');
+        $item->addChild('reorder_amount', 'unlimited');
+        $item->addChild('multipacket', '0');
+        $item->addChild('aserviceid', $record->getCard()->getService()->getNumber());
+      }
+    }
+
+    return $xml->asXML();
+  }
+
+  /**
+   * @param Account $account
+   * @param $params
+   * @return bool|string
+   * @throws \Exception
+   */
 //  public function getPackageList (Account $account, $params)
 //  {
 //    $onum = $params['onum'];

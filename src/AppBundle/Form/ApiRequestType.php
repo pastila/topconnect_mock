@@ -31,6 +31,7 @@ class ApiRequestType extends AbstractType
           'discount' => 'discount',
           'getrates' => 'getrates',
           'getserviceoptions' => 'getserviceoptions',
+          'discountm' => 'discountm',
         ],
       ])
       ->add('uname', 'Symfony\Component\Form\Extension\Core\Type\TextType', [
