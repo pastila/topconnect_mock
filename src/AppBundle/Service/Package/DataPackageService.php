@@ -74,8 +74,6 @@ class DataPackageService
     $record->setBalanceBefore($card->getBalance());
     $newBalance = $card->getBalance() - $package->getActivationFee();
     $record->setBalanceAfter($newBalance);
-    $card->setBalance($newBalance);
-    $this->entityManager->persist($card);
     $this->entityManager->persist($record);
     $this->entityManager->flush();
 
