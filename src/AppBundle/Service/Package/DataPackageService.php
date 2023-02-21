@@ -72,6 +72,8 @@ class DataPackageService
     $record->setMsisdn($card->getMsisdn());
     $record->setPrice($package->getActivationFee());
     $record->setBalanceBefore($card->getBalance());
+    $card->setBalance($newBalance);
+    $this->entityManager->persist($card);
     $newBalance = $card->getBalance() - $package->getActivationFee();
     $record->setBalanceAfter($newBalance);
     $this->entityManager->persist($record);
