@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y\
 
 RUN docker-php-ext-install pdo pdo_mysql
 
-RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer --version=2.2.5
 RUN mkdir -p /home/www-data/.composer/cache/vcs
 RUN chmod -R 777 /home/www-data/.composer
 
