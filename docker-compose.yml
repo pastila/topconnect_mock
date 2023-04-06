@@ -1,0 +1,41 @@
+version: '3'
+
+services:
+  http:
+    image: nginx:1.17-alpine
+    depends_on:
+      - php-fpm
+    networks:
+      - backend
+    volumes:
+      - ./:/var/www
+
+  php-fpm:
+    build:
+      context: .docker/php
+      args:
+        USER_ID: ${DOCKER_USER_UID}
+        USER_NAME: ${DOCKER_USER_NAME}
+        GROUP_ID: ${DOCKER_GROUP_ID}
+    user: '1000:1000'
+    volumes:
+      - ./:/var/www
+      - ${SSH_KEY_PATH}:/home/${DOCKER_USER_NAME}/.ssh/id_rsa:ro
+    depends_on:
+      - database
+    networks:
+      - backend
+      - traefik
+
+  database:
+    image: mysql:5.7
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DB:-topconnect}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-somepassword}
+      MYSQL_ROOT_PASSWORD  : ${MYSQL_PASSWORD:-somepassword}
+      MYSQL_USER: ${MYSQL_USER:-topconnect}
+    networks:
+      - backend
+
+networks:
+  backend: ~

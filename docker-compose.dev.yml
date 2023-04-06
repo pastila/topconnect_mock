@@ -1,0 +1,44 @@
+version: '3'
+
+services:
+  http:
+    hostname: topconnect.docker
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=${TRAEFIK_NETWORK_NAME}"
+      - "traefik.http.routers.topconnect.rule=Host(`topconnect.docker`)"
+    volumes:
+      - ./.docker/nginx/conf.d/dev.conf:/etc/nginx/conf.d/default.conf:rw
+    networks:
+      - traefik
+      - backend
+
+#  deployer:
+#    build:
+#      context: .docker/deployer
+#    volumes:
+#      - .:/app
+
+  database:
+    volumes:
+      - ./db-data:/var/lib/postgresql/data:rw
+
+###> symfony/mailer ###
+  mailer:
+    image: schickling/mailcatcher
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=${TRAEFIK_NETWORK_NAME}"
+      - "traefik.http.routers.topconnect-mail.rule=Host(`mail.topconnect.docker`)"
+      - "traefik.http.services.topconnect-mail.loadBalancer.server.port=1080"
+      - "traefik.http.routers.topconnect-mail.service=topconnect-mail"
+      - "traefik.http.routers.topconnect-mail.entryPoints=web"
+    networks:
+      - traefik
+#    ports: [1025, 1080]
+###< symfony/mailer ###
+
+networks:
+  traefik:
+    external:
+      name: ${TRAEFIK_NETWORK_NAME}
