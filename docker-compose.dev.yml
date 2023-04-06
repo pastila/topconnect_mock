@@ -19,7 +19,7 @@ services:
 #    volumes:
 #      - .:/app
 
-  database:
+  topconnect_db:
     volumes:
       - ./db-data:/var/lib/postgresql/data:rw
 

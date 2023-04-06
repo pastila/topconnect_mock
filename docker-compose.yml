@@ -22,12 +22,12 @@ services:
       - ./:/var/www
       - ${SSH_KEY_PATH}:/home/${DOCKER_USER_NAME}/.ssh/id_rsa:ro
     depends_on:
-      - database
+      - topconnect_db
     networks:
       - backend
       - traefik
 
-  database:
+  topconnect_db:
     image: mysql:5.7
     environment:
       MYSQL_DATABASE: ${MYSQL_DB:-topconnect}

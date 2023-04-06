@@ -1,4 +1,4 @@
-FROM php:8.1-fpm-buster
+FROM php:7.3-fpm
 
 ENV COMPOSER_HOME=/home/www-data/.composer
 ENV APP_ENV=dev
@@ -11,10 +11,9 @@ USER root
 
 RUN apt-get update && apt-get install -y\
     git \
-    zip \
-    libpq-dev
+    zip
 
-RUN docker-php-ext-install pdo pdo_pgsql
+RUN docker-php-ext-install pdo pdo_mysql
 
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer --version=2.2.5
 RUN mkdir -p /home/www-data/.composer/cache/vcs
@@ -33,7 +32,7 @@ RUN chmod -R +x /var/www/bootstrap.sh
 
 USER www-data
 
-RUN composer install -o
+RUN composer install -o --no-scripts
 
 STOPSIGNAL SIGQUIT
 EXPOSE 9000
